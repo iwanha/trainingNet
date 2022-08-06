@@ -1,0 +1,33 @@
+1.Update Model From Database
+2.Rename Nama Tabel dan nama kolom seusai dengan standard
+3.Pastikan dulu nama entitynya bersih (tidak ada embel2 1 atau 2 dst...)
+4.Ubah DtmCrt dan kawan2 ke Complex
+5.Rename NewComplexType menjadi LastUserTimestamp
+6.Pastikan property LastUserTimestamp adalah UserTimestamp
+7.Pastikan Table Mapping sudah benar
+8.Save
+----------------------------------------------------------------------
+
+Tahap POCO
+1.Add Code Generation Item (EF4 POCO)
+2.Buat Class (jika baru). Jangan lupa public partial dan inherit ITimestampable + Serializeable
+3.Copy context ke data access
+4.Hapus semua Model yang terbentuk dari POCO
+5.Coba build dulu (pastikan tidak ada yang error)
+6.Delete terlebih dahulu .csdl .ssdl .msl dan .view.cs
+7.Copy Script Prebuild dan Postbuild lalu Save
+8.Build
+9.Hapus Script Prebuild dan Postbuild lalu Save
+10.Show all hidden files
+11.Include ke dalam project file .csdl .ssdl .msl dan .view.cs yang baru terbentuk
+12.Ubah properties build action untuk file .csdl .ssdl .msl jadi embeded resource
+13.Pastikan porperties action build dari edmx adalah entity deploy
+14.Build 
+
+Tahap Pre Post Build
+1. Pastikan properties Metadata Artifact Processing di EDMXnya itu Copy to Output Directory
+2. Buka Properties Project DataModelnya
+3. Buka Build Event lalu masukkan script pre dan post build
+3. Build DataModel dengan script pre post build
+4. Memastikan file csdl, msl, ssdl, view.cs sudah di include ke project
+5. Hapus script pre post build lalu build kembali

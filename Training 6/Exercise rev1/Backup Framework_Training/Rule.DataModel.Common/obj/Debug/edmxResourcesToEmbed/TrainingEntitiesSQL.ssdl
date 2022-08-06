@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TrainingModelStoreContainer">
+    <EntitySet Name="CUST" EntityType="TrainingModel.Store.CUST" store:Type="Tables" store:Schema="dbo" store:Name="CUST">
+      <DefiningQuery>SELECT 
+      [CUST].[CUST_ID] AS [CUST_ID], 
+      [CUST].[CUST_NAME] AS [CUST_NAME], 
+      [CUST].[CUST_NO] AS [CUST_NO], 
+      [CUST].[CUST_ADDR] AS [CUST_ADDR], 
+      [CUST].[USR_CRT] AS [USR_CRT], 
+      [CUST].[DTM_CRT] AS [DTM_CRT], 
+      [CUST].[USR_UPD] AS [USR_UPD], 
+      [CUST].[DTM_UPD] AS [DTM_UPD]
+      FROM [dbo].[CUST] AS [CUST]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'Training.dbo.CUST' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="CUST">
+    <Key>
+      <PropertyRef Name="CUST_ID" />
+    </Key>
+    <Property Name="CUST_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CUST_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="CUST_NO" Type="varchar" MaxLength="20" />
+    <Property Name="CUST_ADDR" Type="varchar" MaxLength="200" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+</Schema>

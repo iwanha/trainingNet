@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="117e75f5369a4f21a4d4d1d78cc1edf1" Name="Diagram1" ZoomLevel="62">
+        <EntityTypeShape EntityType="TrainingModel.Cust" Width="1.5" PointX="5.5" PointY="2.625" />
+        <EntityTypeShape EntityType="TrainingModel.RefMaster" Width="1.5" PointX="8.375" PointY="2.625" />
+        <EntityTypeShape EntityType="TrainingModel.CustomerHandling" Width="2" PointX="2.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.Suppl" Width="1.5" PointX="11.375" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.CustAddr" Width="1.5" PointX="7.375" PointY="7.625" />
+        <EntityTypeShape EntityType="TrainingModel.ProdTrxD" Width="1.5" PointX="0.875" PointY="8.75" />
+        <EntityTypeShape EntityType="TrainingModel.ProdTrxH" Width="1.5" PointX="3.5" PointY="8.5" />
+        <EntityTypeShape EntityType="TrainingModel.ProductD" Width="1.5" PointX="9.5" PointY="7.125" />
+        <EntityTypeShape EntityType="TrainingModel.ProductH" Width="1.5" PointX="11.375" PointY="7.25" />
+        <AssociationConnector Association="TrainingModel.FK__CUST_ADDR__CUST___25869641" />
+        <AssociationConnector Association="TrainingModel.FK_PROD_TRX_H_CUST" />
+        <AssociationConnector Association="TrainingModel.FK_PROD_TRX_H_PROD_TRX_D" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

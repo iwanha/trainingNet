@@ -1,0 +1,7 @@
+Pre Build : 
+"%windir%\Microsoft.NET\Framework\v4.0.30319\EdmGen.exe" /mode:ViewGeneration "/inssdl:$(TargetDir)TrainingEntitiesSQL.ssdl" "/incsdl:$(TargetDir)TrainingEntitiesSQL.csdl" "/inmsl:$(TargetDir)TrainingEntitiesSQL.msl" "/outviews:$(ProjectDir)TrainingEntitiesSQL.Views.cs" /nologo /language:CSharp
+
+Post Build : 
+XCOPY "$(TargetDir)TrainingEntitiesSQL.csdl" "$(ProjectDir)" /R /Y
+XCOPY "$(TargetDir)TrainingEntitiesSQL.ssdl" "$(ProjectDir)" /R /Y
+XCOPY "$(TargetDir)TrainingEntitiesSQL.msl" "$(ProjectDir)" /R /Y

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="117e75f5369a4f21a4d4d1d78cc1edf1" Name="Diagram1" ZoomLevel="97">
+        <EntityTypeShape EntityType="TrainingModel.Cust" Width="1.5" PointX="5.125" PointY="0.5" />
+        <EntityTypeShape EntityType="TrainingModel.RefMaster" Width="1.5" PointX="8" PointY="0.5" />
+        <EntityTypeShape EntityType="TrainingModel.CustomerHandling" Width="2" PointX="1.875" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.Suppl" Width="1.5" PointX="11" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TrainingModel.CustAddr" Width="1.5" PointX="7" PointY="5.5" />
+        <EntityTypeShape EntityType="TrainingModel.ProdTrxD" Width="1.5" PointX="0.5" PointY="6.625" />
+        <EntityTypeShape EntityType="TrainingModel.ProdTrxH" Width="1.5" PointX="3.125" PointY="6.375" />
+        <EntityTypeShape EntityType="TrainingModel.ProductD" Width="1.5" PointX="9.125" PointY="5" />
+        <EntityTypeShape EntityType="TrainingModel.ProductH" Width="1.5" PointX="11" PointY="5.125" />
+        <AssociationConnector Association="TrainingModel.FK__CUST_ADDR__CUST___25869641" />
+        <AssociationConnector Association="TrainingModel.FK_PROD_TRX_H_CUST" />
+        <AssociationConnector Association="TrainingModel.FK_PROD_TRX_H_PROD_TRX_D" />
+        <EntityTypeShape EntityType="TrainingModel.RefCourse" Width="1.5" PointX="18.5" PointY="13.5" />
+        <EntityTypeShape EntityType="TrainingModel.RefMajor" Width="1.5" PointX="10.25" PointY="13.5" />
+        <EntityTypeShape EntityType="TrainingModel.Student" Width="1.5" PointX="12.875" PointY="13.125" />
+        <EntityTypeShape EntityType="TrainingModel.StudentScore" Width="1.5" PointX="16.125" PointY="13.625" />
+        <AssociationConnector Association="TrainingModel.FK__STUDENT_S__REF_C__4D94879B" />
+        <AssociationConnector Association="TrainingModel.FK__STUDENT__REF_MAJ__47DBAE45" />
+        <AssociationConnector Association="TrainingModel.FK__STUDENT_S__STUDE__4CA06362" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

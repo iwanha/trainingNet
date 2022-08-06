@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="TrainingEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Agrmnts" EntityType="TrainingModel.Agrmnt" />
+    <EntitySet Name="Branches" EntityType="TrainingModel.Branch" />
+    <EntitySet Name="Customers" EntityType="TrainingModel.Customer" />
+    <EntitySet Name="Employees" EntityType="TrainingModel.Employee" />
+    <EntitySet Name="Holidays" EntityType="TrainingModel.Holiday" />
+    <EntitySet Name="MasterSequences" EntityType="TrainingModel.MasterSequence" />
+    <EntitySet Name="PdcDetails" EntityType="TrainingModel.PdcDetail" />
+    <EntitySet Name="PdcHeaders" EntityType="TrainingModel.PdcHeader" />
+    <EntitySet Name="PdcHistories" EntityType="TrainingModel.PdcHistory" />
+    <EntitySet Name="PdcReceipts" EntityType="TrainingModel.PdcReceipt" />
+    <EntitySet Name="RefBanks" EntityType="TrainingModel.RefBank" />
+    <EntitySet Name="RefCurrencies" EntityType="TrainingModel.RefCurrency" />
+    <AssociationSet Name="FK__AGRMNT__BRANCH_I__3B75D760" Association="TrainingModel.FK__AGRMNT__BRANCH_I__3B75D760">
+      <End Role="BRANCH" EntitySet="Branches" />
+      <End Role="AGRMNT" EntitySet="Agrmnts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AGRMNT__CURRENCY__3D5E1FD2" Association="TrainingModel.FK__AGRMNT__CURRENCY__3D5E1FD2">
+      <End Role="REF_CURRENCY" EntitySet="RefCurrencies" />
+      <End Role="AGRMNT" EntitySet="Agrmnts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AGRMNT__CUSTOMER__3C69FB99" Association="TrainingModel.FK__AGRMNT__CUSTOMER__3C69FB99">
+      <End Role="CUSTOMER" EntitySet="Customers" />
+      <End Role="AGRMNT" EntitySet="Agrmnts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_HEADE__AGRMN__45F365D3" Association="TrainingModel.FK__PDC_HEADE__AGRMN__45F365D3">
+      <End Role="AGRMNT" EntitySet="Agrmnts" />
+      <End Role="PDC_HEADER" EntitySet="PdcHeaders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_RECEI__EMPLO__4222D4EF" Association="TrainingModel.FK__PDC_RECEI__EMPLO__4222D4EF">
+      <End Role="EMPLOYEE" EntitySet="Employees" />
+      <End Role="PDC_RECEIPT" EntitySet="PdcReceipts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_DETAI__PDC_H__4BAC3F29" Association="TrainingModel.FK__PDC_DETAI__PDC_H__4BAC3F29">
+      <End Role="PDC_HEADER" EntitySet="PdcHeaders" />
+      <End Role="PDC_DETAIL" EntitySet="PdcDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_HEADE__PDC_R__44FF419A" Association="TrainingModel.FK__PDC_HEADE__PDC_R__44FF419A">
+      <End Role="PDC_RECEIPT" EntitySet="PdcReceipts" />
+      <End Role="PDC_HEADER" EntitySet="PdcHeaders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_HEADE__REF_B__46E78A0C" Association="TrainingModel.FK__PDC_HEADE__REF_B__46E78A0C">
+      <End Role="REF_BANK" EntitySet="RefBanks" />
+      <End Role="PDC_HEADER" EntitySet="PdcHeaders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_HISTO__PDC_H__5070F446" Association="TrainingModel.FK__PDC_HISTO__PDC_H__5070F446">
+      <End Role="PDC_HEADER" EntitySet="PdcHeaders" />
+      <End Role="PDC_HISTORY" EntitySet="PdcHistories" />
+    </AssociationSet>
+  </EntityContainer>
+  <ComplexType Name="UserTimestamp">
+    <Property Type="String" Name="UsrCrt" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="DtmCrt" Nullable="false" Precision="3" />
+    <Property Type="String" Name="UsrUpd" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="DtmUpd" Nullable="false" Precision="3" />
+  </ComplexType>
+  <EntityType Name="Agrmnt">
+    <Key>
+      <PropertyRef Name="AgrmntId" />
+    </Key>
+    <Property Type="Int64" Name="AgrmntId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="AppNo" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="AgrmntNo" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="Int64" Name="BranchId" />
+    <Property Type="Int64" Name="CustomerId" />
+    <Property Type="Int64" Name="CurrencyId" />
+    <Property Type="String" Name="AppStep" MaxLength="3" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ContractStat" MaxLength="3" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="InstAmt" Precision="17" Scale="2" />
+    <NavigationProperty Name="Branch" Relationship="TrainingModel.FK__AGRMNT__BRANCH_I__3B75D760" FromRole="AGRMNT" ToRole="BRANCH" />
+    <NavigationProperty Name="RefCurrency" Relationship="TrainingModel.FK__AGRMNT__CURRENCY__3D5E1FD2" FromRole="AGRMNT" ToRole="REF_CURRENCY" />
+    <NavigationProperty Name="Customer" Relationship="TrainingModel.FK__AGRMNT__CUSTOMER__3C69FB99" FromRole="AGRMNT" ToRole="CUSTOMER" />
+    <NavigationProperty Name="PdcHeader" Relationship="TrainingModel.FK__PDC_HEADE__AGRMN__45F365D3" FromRole="AGRMNT" ToRole="PDC_HEADER" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="Branch">
+    <Key>
+      <PropertyRef Name="BranchId" />
+    </Key>
+    <Property Type="Int64" Name="BranchId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="BranchCode" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="BranchName" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Agrmnts" Relationship="TrainingModel.FK__AGRMNT__BRANCH_I__3B75D760" FromRole="BRANCH" ToRole="AGRMNT" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Type="Int64" Name="CustomerId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CustomerName" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CustomerNo" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CustomerType" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="Address" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Rt" MaxLength="3" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Rw" MaxLength="3" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Kelurahan" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Kecamatan" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="City" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ZipCode" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Phone" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Agrmnts" Relationship="TrainingModel.FK__AGRMNT__CUSTOMER__3C69FB99" FromRole="CUSTOMER" ToRole="AGRMNT" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Type="Int64" Name="EmployeeId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="EmployeeName" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Position" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="PdcReceipt" Relationship="TrainingModel.FK__PDC_RECEI__EMPLO__4222D4EF" FromRole="EMPLOYEE" ToRole="PDC_RECEIPT" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="Holiday">
+    <Key>
+      <PropertyRef Name="HolidayId" />
+    </Key>
+    <Property Type="Int64" Name="HolidayId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="HolidayDate" Precision="3" />
+    <Property Type="String" Name="Description" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="IsPublicHoliday" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="MasterSequence">
+    <Key>
+      <PropertyRef Name="MasterSequenceId" />
+    </Key>
+    <Property Type="Int64" Name="MasterSequenceId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="SeqNo" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="PdcDetail">
+    <Key>
+      <PropertyRef Name="PdcDetailId" />
+    </Key>
+    <Property Type="Int64" Name="PdcDetailId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="PdcHeaderId" />
+    <Property Type="String" Name="PaymentAllocation" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Description" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="Amount" Precision="17" Scale="2" />
+    <NavigationProperty Name="PdcHeader" Relationship="TrainingModel.FK__PDC_DETAI__PDC_H__4BAC3F29" FromRole="PDC_DETAIL" ToRole="PDC_HEADER" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="PdcHeader">
+    <Key>
+      <PropertyRef Name="PdcHeaderId" />
+    </Key>
+    <Property Type="Int64" Name="PdcHeaderId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="PdcReceiptId" />
+    <Property Type="Int64" Name="AgrmntId" />
+    <Property Type="String" Name="PdcNo" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="Int64" Name="RefBankId" />
+    <Property Type="Int32" Name="GiroSeqNo" />
+    <Property Type="DateTime" Name="ReceiveDate" Precision="3" />
+    <Property Type="Decimal" Name="PdcAmount" Precision="17" Scale="2" />
+    <Property Type="DateTime" Name="PdcDueDate" Precision="3" />
+    <Property Type="String" Name="PdcType" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="Boolean" Name="IsInkaso" />
+    <Property Type="Boolean" Name="IsCummulative" />
+    <Property Type="String" Name="PdcStatus" MaxLength="2" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="FisikStatus" MaxLength="2" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="Agrmnt" Relationship="TrainingModel.FK__PDC_HEADE__AGRMN__45F365D3" FromRole="PDC_HEADER" ToRole="AGRMNT" />
+    <NavigationProperty Name="PdcDetail" Relationship="TrainingModel.FK__PDC_DETAI__PDC_H__4BAC3F29" FromRole="PDC_HEADER" ToRole="PDC_DETAIL" />
+    <NavigationProperty Name="PdcReceipt" Relationship="TrainingModel.FK__PDC_HEADE__PDC_R__44FF419A" FromRole="PDC_HEADER" ToRole="PDC_RECEIPT" />
+    <NavigationProperty Name="RefBank" Relationship="TrainingModel.FK__PDC_HEADE__REF_B__46E78A0C" FromRole="PDC_HEADER" ToRole="REF_BANK" />
+    <NavigationProperty Name="PdcHistory" Relationship="TrainingModel.FK__PDC_HISTO__PDC_H__5070F446" FromRole="PDC_HEADER" ToRole="PDC_HISTORY" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="PdcHistory">
+    <Key>
+      <PropertyRef Name="PdcHistoryId" />
+    </Key>
+    <Property Type="Int64" Name="PdcHistoryId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="PdcHeaderId" />
+    <Property Type="String" Name="PdcStatus" MaxLength="2" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="FisikStatus" MaxLength="2" FixedLength="true" Unicode="false" />
+    <Property Type="DateTime" Name="StatusDate" Precision="3" />
+    <NavigationProperty Name="PdcHeader" Relationship="TrainingModel.FK__PDC_HISTO__PDC_H__5070F446" FromRole="PDC_HISTORY" ToRole="PDC_HEADER" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="PdcReceipt">
+    <Key>
+      <PropertyRef Name="PdcReceiptId" />
+    </Key>
+    <Property Type="Int64" Name="PdcReceiptId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="PdcReceiptNo" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="ReceiveDate" Precision="3" />
+    <Property Type="String" Name="ReceiveFrom" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Int64" Name="EmployeeId" />
+    <Property Type="String" Name="AtasNamaPdc" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="NumOfPdc" />
+    <Property Type="Decimal" Name="TotalPdcAmt" Precision="17" Scale="2" />
+    <NavigationProperty Name="Employee" Relationship="TrainingModel.FK__PDC_RECEI__EMPLO__4222D4EF" FromRole="PDC_RECEIPT" ToRole="EMPLOYEE" />
+    <NavigationProperty Name="PdcHeader" Relationship="TrainingModel.FK__PDC_HEADE__PDC_R__44FF419A" FromRole="PDC_RECEIPT" ToRole="PDC_HEADER" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="RefBank">
+    <Key>
+      <PropertyRef Name="RefBankId" />
+    </Key>
+    <Property Type="Int64" Name="RefBankId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="BankCode" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="BankName" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="IsActive" />
+    <NavigationProperty Name="PdcHeader" Relationship="TrainingModel.FK__PDC_HEADE__REF_B__46E78A0C" FromRole="REF_BANK" ToRole="PDC_HEADER" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <EntityType Name="RefCurrency">
+    <Key>
+      <PropertyRef Name="RefCurrencyId" />
+    </Key>
+    <Property Type="Int64" Name="RefCurrencyId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CurrencyCode" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CurrencyName" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="IsActive" />
+    <NavigationProperty Name="Agrmnts" Relationship="TrainingModel.FK__AGRMNT__CURRENCY__3D5E1FD2" FromRole="REF_CURRENCY" ToRole="AGRMNT" />
+    <Property Name="LastUserTimestamp" Nullable="false" Type="TrainingModel.UserTimestamp" />
+  </EntityType>
+  <Association Name="FK__AGRMNT__BRANCH_I__3B75D760">
+    <End Type="TrainingModel.Branch" Role="BRANCH" Multiplicity="0..1" />
+    <End Type="TrainingModel.Agrmnt" Role="AGRMNT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BRANCH">
+        <PropertyRef Name="BranchId" />
+      </Principal>
+      <Dependent Role="AGRMNT">
+        <PropertyRef Name="BranchId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__AGRMNT__CURRENCY__3D5E1FD2">
+    <End Type="TrainingModel.RefCurrency" Role="REF_CURRENCY" Multiplicity="0..1" />
+    <End Type="TrainingModel.Agrmnt" Role="AGRMNT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REF_CURRENCY">
+        <PropertyRef Name="RefCurrencyId" />
+      </Principal>
+      <Dependent Role="AGRMNT">
+        <PropertyRef Name="CurrencyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__AGRMNT__CUSTOMER__3C69FB99">
+    <End Type="TrainingModel.Customer" Role="CUSTOMER" Multiplicity="0..1" />
+    <End Type="TrainingModel.Agrmnt" Role="AGRMNT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CUSTOMER">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="AGRMNT">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_HEADE__AGRMN__45F365D3">
+    <End Type="TrainingModel.Agrmnt" Role="AGRMNT" Multiplicity="0..1" />
+    <End Type="TrainingModel.PdcHeader" Role="PDC_HEADER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AGRMNT">
+        <PropertyRef Name="AgrmntId" />
+      </Principal>
+      <Dependent Role="PDC_HEADER">
+        <PropertyRef Name="AgrmntId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_RECEI__EMPLO__4222D4EF">
+    <End Type="TrainingModel.Employee" Role="EMPLOYEE" Multiplicity="0..1" />
+    <End Type="TrainingModel.PdcReceipt" Role="PDC_RECEIPT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EMPLOYEE">
+        <PropertyRef Name="EmployeeId" />
+      </Principal>
+      <Dependent Role="PDC_RECEIPT">
+        <PropertyRef Name="EmployeeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_DETAI__PDC_H__4BAC3F29">
+    <End Type="TrainingModel.PdcHeader" Role="PDC_HEADER" Multiplicity="0..1" />
+    <End Type="TrainingModel.PdcDetail" Role="PDC_DETAIL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PDC_HEADER">
+        <PropertyRef Name="PdcHeaderId" />
+      </Principal>
+      <Dependent Role="PDC_DETAIL">
+        <PropertyRef Name="PdcHeaderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_HEADE__PDC_R__44FF419A">
+    <End Type="TrainingModel.PdcReceipt" Role="PDC_RECEIPT" Multiplicity="0..1" />
+    <End Type="TrainingModel.PdcHeader" Role="PDC_HEADER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PDC_RECEIPT">
+        <PropertyRef Name="PdcReceiptId" />
+      </Principal>
+      <Dependent Role="PDC_HEADER">
+        <PropertyRef Name="PdcReceiptId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_HEADE__REF_B__46E78A0C">
+    <End Type="TrainingModel.RefBank" Role="REF_BANK" Multiplicity="0..1" />
+    <End Type="TrainingModel.PdcHeader" Role="PDC_HEADER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REF_BANK">
+        <PropertyRef Name="RefBankId" />
+      </Principal>
+      <Dependent Role="PDC_HEADER">
+        <PropertyRef Name="RefBankId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_HISTO__PDC_H__5070F446">
+    <End Type="TrainingModel.PdcHeader" Role="PDC_HEADER" Multiplicity="0..1" />
+    <End Type="TrainingModel.PdcHistory" Role="PDC_HISTORY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PDC_HEADER">
+        <PropertyRef Name="PdcHeaderId" />
+      </Principal>
+      <Dependent Role="PDC_HISTORY">
+        <PropertyRef Name="PdcHeaderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

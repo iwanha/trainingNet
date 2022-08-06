@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TrainingModelStoreContainer">
+    <EntitySet Name="CUST" EntityType="TrainingModel.Store.CUST" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="REF_MASTER" EntityType="TrainingModel.Store.REF_MASTER" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="CUST">
+    <Key>
+      <PropertyRef Name="CUST_ID" />
+    </Key>
+    <Property Name="CUST_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CUST_NO" Type="varchar" MaxLength="20" />
+    <Property Name="CUST_TYPE" Type="varchar" MaxLength="5" />
+    <Property Name="CUST_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="IDENTITY_TYPE" Type="varchar" MaxLength="5" />
+    <Property Name="IDENTITY_NO" Type="varchar" MaxLength="16" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+    <Property Name="BIRTH_DT" Type="datetime" Nullable="false" />
+    <Property Name="BIRTH_PLACE" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="MARITAL_STATUS" Type="varchar" MaxLength="10" />
+    <Property Name="RELIGION" Type="varchar" MaxLength="100" />
+    <Property Name="NATIONALITY" Type="varchar" MaxLength="100" />
+    <Property Name="MONTHLY_INCOME" Type="numeric" Precision="17" Scale="2" />
+  </EntityType>
+  <EntityType Name="REF_MASTER">
+    <Key>
+      <PropertyRef Name="REF_MASTER_ID" />
+    </Key>
+    <Property Name="REF_MASTER_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="MASTER_CODE" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DESCRIPTION" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="MASTER_TYPE" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="USR_CRT" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" Nullable="false" />
+    <Property Name="USR_UPD" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" Nullable="false" />
+  </EntityType>
+</Schema>

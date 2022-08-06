@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MenuModelStoreContainer" CdmEntityContainer="MenuEntities">
+    <EntitySetMapping Name="RefFolders">
+      <EntityTypeMapping TypeName="MenuModel.RefFolder">
+        <MappingFragment StoreEntitySet="REF_FOLDER">
+          <ScalarProperty Name="RefFolderId" ColumnName="REF_FOLDER_ID" />
+          <ScalarProperty Name="FolderName" ColumnName="FOLDER_NAME" />
+          <ScalarProperty Name="ParentId" ColumnName="PARENT_ID" />
+          <ScalarProperty Name="HierarchyNo" ColumnName="HIERARCHY_NO" />
+          <ScalarProperty Name="OrderNo" ColumnName="ORDER_NO" />
+          <ScalarProperty Name="IsHidden" ColumnName="IS_HIDDEN" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RefForms">
+      <EntityTypeMapping TypeName="MenuModel.RefForm">
+        <MappingFragment StoreEntitySet="REF_FORM">
+          <ScalarProperty Name="RefFormId" ColumnName="REF_FORM_ID" />
+          <ScalarProperty Name="FormName" ColumnName="FORM_NAME" />
+          <ScalarProperty Name="FormURL" ColumnName="FORM_URL" />
+          <ScalarProperty Name="RefFolderId" ColumnName="REF_FOLDER_ID" />
+          <ScalarProperty Name="OrderNo" ColumnName="ORDER_NO" />
+          <ScalarProperty Name="IsHidden" ColumnName="IS_HIDDEN" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

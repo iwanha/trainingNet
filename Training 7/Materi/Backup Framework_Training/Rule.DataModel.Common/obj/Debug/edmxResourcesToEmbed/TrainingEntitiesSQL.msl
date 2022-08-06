@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrainingModelStoreContainer" CdmEntityContainer="TrainingEntities">
+    <EntitySetMapping Name="Custs1">
+      <EntityTypeMapping TypeName="TrainingModel.Cust">
+        <MappingFragment StoreEntitySet="CUST">
+          <ScalarProperty Name="CustAddr" ColumnName="CUST_ADDR" />
+          <ScalarProperty Name="CustNo" ColumnName="CUST_NO" />
+          <ScalarProperty Name="CustName" ColumnName="CUST_NAME" />
+          <ScalarProperty Name="CustId" ColumnName="CUST_ID" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

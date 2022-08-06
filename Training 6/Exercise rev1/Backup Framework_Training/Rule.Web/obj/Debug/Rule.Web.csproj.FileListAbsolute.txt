@@ -1,0 +1,1036 @@
+D:\Project\Rule\Rule.Web\bin\Rule.Web.dll
+D:\Project\Rule\Rule.Web\bin\Rule.Web.pdb
+D:\Project\Rule\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Project\Rule\Rule.Web\bin\AdIns.DataModel.dll
+D:\Project\Rule\Rule.Web\bin\AdIns.Service.dll
+D:\Project\Rule\Rule.Web\bin\AdIns.Util.dll
+D:\Project\Rule\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Project\Rule\Rule.Web\bin\Confins.Common.dll
+D:\Project\Rule\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Project\Rule\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Project\Rule\Rule.Web\bin\Confins.Web.Security.dll
+D:\Project\Rule\Rule.Web\bin\Confins.WebLib.dll
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.dll
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Project\Rule\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Project\Rule\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Project\Rule\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Project\Rule\Rule.Web\bin\Rule.Common.dll
+D:\Project\Rule\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Project\Rule\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Project\Rule\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.xml
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Project\Rule\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Project\Rule\Rule.Web\bin\Rule.Common.pdb
+D:\Project\Rule\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Project\Rule\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Rule\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Project\Rule\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Project\Rule\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Project\Rule\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Project\Rule\Rule.Web\bin\LicensingLibrary.dll
+D:\Project\Rule\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Project\Rule\Rule.Web\bin\Confins.DataAccess.Approval.dll
+D:\Project\Rule\Rule.Web\bin\Confins.DataModel.Approval.dll
+D:\Project\Rule\Rule.Web\bin\AdIns.Notification.dll
+C:\Project\Approval\Rule.Web\bin\Rule.Web.dll
+C:\Project\Approval\Rule.Web\bin\Rule.Web.pdb
+C:\Project\Approval\Rule.Web\bin\AdIns.DataAccess.dll
+C:\Project\Approval\Rule.Web\bin\AdIns.DataModel.dll
+C:\Project\Approval\Rule.Web\bin\AdIns.Service.dll
+C:\Project\Approval\Rule.Web\bin\AdIns.Util.dll
+C:\Project\Approval\Rule.Web\bin\Confins.Approval.dll
+C:\Project\Approval\Rule.Web\bin\Confins.Approval.Impl.dll
+C:\Project\Approval\Rule.Web\bin\Confins.BusinessService.Approval.dll
+C:\Project\Approval\Rule.Web\bin\Confins.BusinessService.Common.dll
+C:\Project\Approval\Rule.Web\bin\Confins.Common.dll
+C:\Project\Approval\Rule.Web\bin\Confins.DataAccess.Common.dll
+C:\Project\Approval\Rule.Web\bin\Confins.DataModel.Approval.dll
+C:\Project\Approval\Rule.Web\bin\Confins.DataModel.Common.dll
+C:\Project\Approval\Rule.Web\bin\Confins.Web.Security.dll
+C:\Project\Approval\Rule.Web\bin\Confins.WebLib.dll
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.dll
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Project\Approval\Rule.Web\bin\Rule.BusinessService.Common.dll
+C:\Project\Approval\Rule.Web\bin\Rule.DataModel.Common.dll
+C:\Project\Approval\Rule.Web\bin\Telerik.Web.UI.dll
+C:\Project\Approval\Rule.Web\bin\Confins.DataAccess.Approval.dll
+C:\Project\Approval\Rule.Web\bin\AdIns.Notification.Channel.dll
+C:\Project\Approval\Rule.Web\bin\Confins.Notification.dll
+C:\Project\Approval\Rule.Web\bin\AdIns.Notification.Email.dll
+C:\Project\Approval\Rule.Web\bin\AdIns.Notification.SMS.dll
+C:\Project\Approval\Rule.Web\bin\AdIns.Notification.dll
+C:\Project\Approval\Rule.Web\bin\Rule.Common.dll
+C:\Project\Approval\Rule.Web\bin\Rule.DataAccess.Common.dll
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Project\Approval\Rule.Web\bin\Confins.Approval.Impl.pdb
+C:\Project\Approval\Rule.Web\bin\Confins.Approval.pdb
+C:\Project\Approval\Rule.Web\bin\Confins.BusinessService.Approval.pdb
+C:\Project\Approval\Rule.Web\bin\Confins.DataModel.Approval.pdb
+C:\Project\Approval\Rule.Web\bin\Rule.BusinessService.Common.pdb
+C:\Project\Approval\Rule.Web\bin\Rule.DataModel.Common.pdb
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.xml
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Project\Approval\Rule.Web\bin\Confins.DataAccess.Approval.pdb
+C:\Project\Approval\Rule.Web\bin\AdIns.Notification.Channel.pdb
+C:\Project\Approval\Rule.Web\bin\Confins.Notification.pdb
+C:\Project\Approval\Rule.Web\bin\AdIns.Notification.Email.pdb
+C:\Project\Approval\Rule.Web\bin\AdIns.Notification.SMS.pdb
+C:\Project\Approval\Rule.Web\bin\AdIns.Notification.pdb
+C:\Project\Approval\Rule.Web\bin\Rule.Common.pdb
+C:\Project\Approval\Rule.Web\bin\Rule.DataAccess.Common.pdb
+C:\Project\Approval\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Approval\Rule.Web\obj\Debug\Rule.Web.dll
+C:\Project\Approval\Rule.Web\obj\Debug\Rule.Web.pdb
+C:\Project\Approval\Rule.Web\bin\Confins.ReportScheduler.dll
+C:\Project\Approval\Rule.Web\bin\LicensingLibrary.dll
+C:\Project\Approval\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.Web.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.Web.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.DataAccess.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.DataModel.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Service.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Util.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.Approval.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.Approval.Impl.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.BusinessService.Approval.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.BusinessService.Common.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.Common.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.DataAccess.Common.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.DataModel.Approval.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.DataModel.Common.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.Web.Security.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.WebLib.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.BusinessService.Common.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.DataModel.Common.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Telerik.Web.UI.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.DataAccess.Approval.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Notification.Channel.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.Notification.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Notification.Email.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Notification.SMS.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Notification.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.Common.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.DataAccess.Common.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.ReportScheduler.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\LicensingLibrary.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.Approval.Impl.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.Approval.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.BusinessService.Approval.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.DataModel.Approval.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.BusinessService.Common.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.DataModel.Common.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.xml
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.DataAccess.Approval.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Notification.Channel.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Confins.Notification.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Notification.Email.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Notification.SMS.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\AdIns.Notification.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.Common.pdb
+C:\Project\Backup Project\Approval\Rule.Web\bin\Rule.DataAccess.Common.pdb
+C:\Project\Backup Project\Approval\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Backup Project\Approval\Rule.Web\obj\Debug\Rule.Web.dll
+C:\Project\Backup Project\Approval\Rule.Web\obj\Debug\Rule.Web.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Rule.Web.dll
+C:\Project\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+C:\Project\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+C:\Project\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+C:\Project\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+C:\Project\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+C:\Project\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+C:\Project\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+C:\Project\Framework_Training\Rule.Web\bin\Confins.Common.dll
+C:\Project\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+C:\Project\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+C:\Project\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+C:\Project\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+C:\Project\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+C:\Project\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.dll
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Project\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+C:\Project\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+C:\Project\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+C:\Project\Framework_Training\Rule.Web\bin\Training.API.dll
+C:\Project\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+C:\Project\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+C:\Project\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+C:\Project\Framework_Training\Rule.Web\bin\Rule.Common.dll
+C:\Project\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+C:\Project\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+C:\Project\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Project\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Training.API.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.xml
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Project\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+C:\Project\Framework_Training\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+C:\Project\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.xml
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Training\Framework_Training V2\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.xml
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Training AdIns\2012\Framework_Training_Empty\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.xml
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.xml
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\ForTraining\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\ForTraining\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\ForTraining\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\ForTraining\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\ForTraining\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\ForTraining\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\ForTraining\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\ForTraining\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\ForTraining\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Training\ForTraining\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\Training\ForTraining\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Training\ForTraining\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Training\ForTrainer\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\Training\ForTrainer\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Training\ForTrainer\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Web.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.API.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.API.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Web.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.API.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.API.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\TrainingEntitiesSQL.Designer.cs
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.Web\bin\TrainingEntitiesSQL.edmx.diagram
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+D:\Paket_Hemat\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\Paket_Hemat\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\Paket_Hemat\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Web.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Web.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Service.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Util.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.API.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataModel.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.Common.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.API.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.Web.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.Web.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\AdIns.Service.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\AdIns.Util.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Confins.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Training.API.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Training.DataModel.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.Common.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Training.API.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.Web.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.Web.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\AdIns.Service.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Confins.BusinessService.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Confins.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Confins.DataAccess.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Confins.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Confins.ReportScheduler.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Confins.Web.Security.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Confins.WebLib.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\LicensingLibrary.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Telerik.Web.UI.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Training.API.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\AdIns.Notification.Channel.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\AdIns.Notification.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.BusinessService.Common.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.DataModel.Common.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Training.API.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\bin\Rule.DataAccess.Common.pdb
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\obj\Debug\Rule.Web.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\obj\Debug\Rule.Web.dll
+C:\Users\iwan.hs\Documents\Training 6\Exercise rev1\Backup Framework_Training\Rule.Web\obj\Debug\Rule.Web.pdb

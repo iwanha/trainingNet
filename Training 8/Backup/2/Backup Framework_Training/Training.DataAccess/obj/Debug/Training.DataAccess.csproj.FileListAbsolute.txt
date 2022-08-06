@@ -1,0 +1,362 @@
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Project\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Project\Framework_Training\Training.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+C:\Project\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\ForTraining\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+D:\ForTraining\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\ForTraining\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\Training\ForTraining\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\Training\ForTrainer\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\TrainingEntitiesSQL.Designer.cs
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\TrainingEntitiesSQL.edmx.diagram
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\Paket_Hemat\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Confins.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Confins.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.Notification.Channel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Confins.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Confins.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.Notification.Channel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\Confins.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\Confins.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\AdIns.Notification.Channel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb

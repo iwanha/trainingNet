@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrainingModelStoreContainer" CdmEntityContainer="TrainingEntities">
+    <EntitySetMapping Name="Custs">
+      <EntityTypeMapping TypeName="TrainingModel.Cust">
+        <MappingFragment StoreEntitySet="CUST">
+          <ScalarProperty Name="MonthlyIncome" ColumnName="MONTHLY_INCOME" />
+          <ScalarProperty Name="Nationality" ColumnName="NATIONALITY" />
+          <ScalarProperty Name="Religion" ColumnName="RELIGION" />
+          <ScalarProperty Name="MaritalStatus" ColumnName="MARITAL_STATUS" />
+          <ScalarProperty Name="BirthPlace" ColumnName="BIRTH_PLACE" />
+          <ScalarProperty Name="BirthDt" ColumnName="BIRTH_DT" />
+          <ScalarProperty Name="IdentityNo" ColumnName="IDENTITY_NO" />
+          <ScalarProperty Name="IdentityType" ColumnName="IDENTITY_TYPE" />
+          <ScalarProperty Name="CustName" ColumnName="CUST_NAME" />
+          <ScalarProperty Name="CustType" ColumnName="CUST_TYPE" />
+          <ScalarProperty Name="CustNo" ColumnName="CUST_NO" />
+          <ScalarProperty Name="CustId" ColumnName="CUST_ID" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RefMasters">
+      <EntityTypeMapping TypeName="TrainingModel.RefMaster">
+        <MappingFragment StoreEntitySet="REF_MASTER">
+          <ScalarProperty Name="MasterType" ColumnName="MASTER_TYPE" />
+          <ScalarProperty Name="Description" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="MasterCode" ColumnName="MASTER_CODE" />
+          <ScalarProperty Name="RefMasterId" ColumnName="REF_MASTER_ID" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CustomerHandlings">
+      <EntityTypeMapping TypeName="TrainingModel.CustomerHandling">
+        <MappingFragment StoreEntitySet="CUSTOMER_HANDLING">
+          <ScalarProperty Name="CompletionDt" ColumnName="COMPLETION_DT" />
+          <ScalarProperty Name="AdminFee" ColumnName="ADMIN_FEE" />
+          <ScalarProperty Name="ServiceStatus" ColumnName="SERVICE_STATUS" />
+          <ScalarProperty Name="Chronologic" ColumnName="CHRONOLOGIC" />
+          <ScalarProperty Name="MediaOfService" ColumnName="MEDIA_OF_SERVICE" />
+          <ScalarProperty Name="ServiceCategory" ColumnName="SERVICE_CATEGORY" />
+          <ScalarProperty Name="Email" ColumnName="EMAIL" />
+          <ScalarProperty Name="MobilePhoneNo" ColumnName="MOBILE_PHONE_NO" />
+          <ScalarProperty Name="CustomerName" ColumnName="CUSTOMER_NAME" />
+          <ScalarProperty Name="RegistrationNo" ColumnName="REGISTRATION_NO" />
+          <ScalarProperty Name="CustomerHandlingId" ColumnName="CUSTOMER_HANDLING_ID" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Suppls">
+      <EntityTypeMapping TypeName="TrainingModel.Suppl">
+        <MappingFragment StoreEntitySet="SUPPL">
+          <ScalarProperty Name="Produce" ColumnName="PRODUCE" />
+          <ScalarProperty Name="SupplZipcode" ColumnName="SUPPL_ZIPCODE" />
+          <ScalarProperty Name="SupplCity" ColumnName="SUPPL_CITY" />
+          <ScalarProperty Name="SupplKecamatan" ColumnName="SUPPL_KECAMATAN" />
+          <ScalarProperty Name="SupplKelurahan" ColumnName="SUPPL_KELURAHAN" />
+          <ScalarProperty Name="SupplRw" ColumnName="SUPPL_RW" />
+          <ScalarProperty Name="SupplRt" ColumnName="SUPPL_RT" />
+          <ScalarProperty Name="SupplAddress" ColumnName="SUPPL_ADDRESS" />
+          <ScalarProperty Name="SupplName" ColumnName="SUPPL_NAME" />
+          <ScalarProperty Name="SupplNo" ColumnName="SUPPL_NO" />
+          <ScalarProperty Name="SupplId" ColumnName="SUPPL_ID" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

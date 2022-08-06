@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="117e75f5369a4f21a4d4d1d78cc1edf1" Name="Diagram1" ZoomLevel="109">
+        <EntityTypeShape EntityType="TrainingModel.Cust" Width="1.75" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="TrainingModel.CustAddr" Width="1.75" PointX="3" PointY="1.5" />
+        <AssociationConnector Association="TrainingModel.FK__CUST_ADDR__CUST___25869641" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

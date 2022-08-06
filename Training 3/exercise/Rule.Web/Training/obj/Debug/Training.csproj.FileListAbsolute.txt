@@ -1,0 +1,110 @@
+C:\Project\Framework_Training\Rule.Web\Training\bin\Training.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Training.pdb
+C:\Project\Framework_Training\Rule.Web\Training\bin\AdIns.DataModel.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\AdIns.Service.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\AdIns.Util.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Rule.Web.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Training.DataModel.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Confins.Common.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Confins.BusinessService.Common.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Confins.DataModel.Common.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\AdIns.DataAccess.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Confins.DataAccess.Common.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Confins.ReportScheduler.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\AdIns.Notification.Channel.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\LicensingLibrary.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\AdIns.Workflow.Foundation.ClientAPI.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\AdIns.Notification.dll
+C:\Project\Framework_Training\Rule.Web\Training\bin\Training.DataModel.pdb
+C:\Project\Framework_Training\Rule.Web\Training\bin\Rule.Web.pdb
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.pdb
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.xml
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.Configuration.pdb
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.Interception.xml
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Project\Framework_Training\Rule.Web\Training\bin\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Project\Framework_Training\Rule.Web\Training\bin\Confins.DataAccess.Common.pdb
+C:\Project\Framework_Training\Rule.Web\Training\bin\AdIns.Notification.Channel.pdb
+C:\Project\Framework_Training\Rule.Web\Training\bin\AdIns.Notification.pdb
+C:\Project\Framework_Training\Rule.Web\bin\Training.dll
+C:\Project\Framework_Training\Rule.Web\bin\Training.pdb
+C:\Project\Framework_Training\Rule.Web\Training\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+C:\Project\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\Training\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\Training\obj\Debug\ResolveAssemblyReference.cache
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\bin\Training.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\Training\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\Training\obj\Debug\ResolveAssemblyReference.cache
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+D:\WTF\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.dll
+D:\WTF\Framework_Training_Empty\Framework_Training\Rule.Web\bin\Training.pdb
+D:\WTF\Framework_Training_Empty\Framework_Training\Rule.Web\Training\obj\Debug\ResolveAssemblyReference.cache
+D:\WTF\Framework_Training_Empty\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+D:\WTF\Framework_Training_Empty\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+D:\TRAINING NEW\DAY 1\Framework_Training\Rule.Web\bin\Training.dll
+D:\TRAINING NEW\DAY 1\Framework_Training\Rule.Web\bin\Training.pdb
+D:\TRAINING NEW\DAY 1\Framework_Training\Rule.Web\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+D:\TRAINING NEW\DAY 1\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+D:\TRAINING NEW\DAY 1\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+F:\Project_HC\Other\Framework_Training\Rule.Web\bin\Training.dll
+F:\Project_HC\Other\Framework_Training\Rule.Web\bin\Training.pdb
+F:\Project_HC\Other\Framework_Training\Rule.Web\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+F:\Project_HC\Other\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+F:\Project_HC\Other\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Rule.Web\bin\Training.dll
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Rule.Web\bin\Training.pdb
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Rule.Web\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\bin\Training.dll
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\bin\Training.pdb
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\bin\Training.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\bin\Training.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\Training\obj\Debug\Training.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Rule.Web\Training\obj\Debug\Training.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training - Copy\Rule.Web\bin\Training.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training - Copy\Rule.Web\bin\Training.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training - Copy\Rule.Web\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training - Copy\Rule.Web\Training\obj\Debug\Training.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training - Copy\Rule.Web\Training\obj\Debug\Training.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Rule.Web\bin\Training.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Rule.Web\bin\Training.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Rule.Web\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Rule.Web\Training\obj\Debug\Training.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Rule.Web\Training\obj\Debug\Training.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingS\Framework_TrainingNew\Rule.Web\bin\Training.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingS\Framework_TrainingNew\Rule.Web\bin\Training.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingS\Framework_TrainingNew\Rule.Web\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingS\Framework_TrainingNew\Rule.Web\Training\obj\Debug\Training.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingS\Framework_TrainingNew\Rule.Web\Training\obj\Debug\Training.pdb
+C:\Users\iwan.hs\Documents\Training day 3\exercise\Rule.Web\bin\Training.dll
+C:\Users\iwan.hs\Documents\Training day 3\exercise\Rule.Web\bin\Training.pdb
+C:\Users\iwan.hs\Documents\Training day 3\exercise\Rule.Web\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training day 3\exercise\Rule.Web\Training\obj\Debug\Training.dll
+C:\Users\iwan.hs\Documents\Training day 3\exercise\Rule.Web\Training\obj\Debug\Training.pdb

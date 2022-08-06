@@ -1,0 +1,210 @@
+10/13/2011 5:13:52 PM
+unity
+The given assembly name or codebase was invalid. (Exception from HRESULT: 0x80131047)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName)
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.SearchAssemblies(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 258
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeThroughSearch(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 192
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeInternal(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 119
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveType(String typeNameOrAlias, Boolean throwIfResolveFails) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 105
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolver.ResolveType(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolver.cs:line 47
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.GetMappedType() in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 132
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 89
+   at Microsoft.Practices.Unity.Configuration.ContainerConfiguringElement.ConfigureContainerInternal(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerConfiguringElement.cs:line 43
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.<>c__DisplayClass1.<ConfigureContainer>b__0(ContainerConfiguringElement element) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 114
+   at Microsoft.Practices.ObjectBuilder2.EnumerableExtensions.ForEach[TItem](IEnumerable`1 sequence, Action`1 action) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity\Src\ObjectBuilder\Utility\EnumerableExtensions.cs:line 36
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 110
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container, String configuredContainerName) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 151
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 136
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+10/13/2011 5:15:34 PM
+unity
+The given assembly name or codebase was invalid. (Exception from HRESULT: 0x80131047)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName)
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.SearchAssemblies(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 258
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeThroughSearch(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 192
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeInternal(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 119
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveType(String typeNameOrAlias, Boolean throwIfResolveFails) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 105
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolver.ResolveType(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolver.cs:line 47
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.GetMappedType() in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 132
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 89
+   at Microsoft.Practices.Unity.Configuration.ContainerConfiguringElement.ConfigureContainerInternal(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerConfiguringElement.cs:line 43
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.<>c__DisplayClass1.<ConfigureContainer>b__0(ContainerConfiguringElement element) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 114
+   at Microsoft.Practices.ObjectBuilder2.EnumerableExtensions.ForEach[TItem](IEnumerable`1 sequence, Action`1 action) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity\Src\ObjectBuilder\Utility\EnumerableExtensions.cs:line 36
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 110
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container, String configuredContainerName) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 151
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 136
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+10/13/2011 5:30:42 PM
+unity
+The given assembly name or codebase was invalid. (Exception from HRESULT: 0x80131047)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName)
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.SearchAssemblies(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 258
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeThroughSearch(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 192
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeInternal(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 119
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveType(String typeNameOrAlias, Boolean throwIfResolveFails) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 105
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolver.ResolveType(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolver.cs:line 47
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.GetMappedType() in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 132
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 89
+   at Microsoft.Practices.Unity.Configuration.ContainerConfiguringElement.ConfigureContainerInternal(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerConfiguringElement.cs:line 43
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.<>c__DisplayClass1.<ConfigureContainer>b__0(ContainerConfiguringElement element) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 114
+   at Microsoft.Practices.ObjectBuilder2.EnumerableExtensions.ForEach[TItem](IEnumerable`1 sequence, Action`1 action) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity\Src\ObjectBuilder\Utility\EnumerableExtensions.cs:line 36
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 110
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container, String configuredContainerName) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 151
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 136
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+10/13/2011 5:31:14 PM
+unity
+The given assembly name or codebase was invalid. (Exception from HRESULT: 0x80131047)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName)
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.SearchAssemblies(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 258
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeThroughSearch(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 192
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeInternal(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 119
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveType(String typeNameOrAlias, Boolean throwIfResolveFails) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 105
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolver.ResolveType(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolver.cs:line 47
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.GetMappedType() in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 132
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 89
+   at Microsoft.Practices.Unity.Configuration.ContainerConfiguringElement.ConfigureContainerInternal(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerConfiguringElement.cs:line 43
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.<>c__DisplayClass1.<ConfigureContainer>b__0(ContainerConfiguringElement element) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 114
+   at Microsoft.Practices.ObjectBuilder2.EnumerableExtensions.ForEach[TItem](IEnumerable`1 sequence, Action`1 action) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity\Src\ObjectBuilder\Utility\EnumerableExtensions.cs:line 36
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 110
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container, String configuredContainerName) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 151
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 136
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+3/25/2015 10:23:26 AM
+unity
+The given assembly name or codebase was invalid. (Exception from HRESULT: 0x80131047)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName)
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.SearchAssemblies(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 258
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeThroughSearch(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 192
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveTypeInternal(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 119
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolverImpl.ResolveType(String typeNameOrAlias, Boolean throwIfResolveFails) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolverImpl.cs:line 105
+   at Microsoft.Practices.Unity.Configuration.ConfigurationHelpers.TypeResolver.ResolveType(String typeNameOrAlias) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ConfigurationHelpers\TypeResolver.cs:line 47
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.GetMappedType() in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 132
+   at Microsoft.Practices.Unity.Configuration.RegisterElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\RegisterElement.cs:line 89
+   at Microsoft.Practices.Unity.Configuration.ContainerConfiguringElement.ConfigureContainerInternal(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerConfiguringElement.cs:line 43
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.<>c__DisplayClass1.<ConfigureContainer>b__0(ContainerConfiguringElement element) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 114
+   at Microsoft.Practices.ObjectBuilder2.EnumerableExtensions.ForEach[TItem](IEnumerable`1 sequence, Action`1 action) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity\Src\ObjectBuilder\Utility\EnumerableExtensions.cs:line 36
+   at Microsoft.Practices.Unity.Configuration.ContainerElement.ConfigureContainer(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\ContainerElement.cs:line 110
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container, String configuredContainerName) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 151
+   at Microsoft.Practices.Unity.Configuration.UnityConfigurationSection.Configure(IUnityContainer container) in e:\Builds\Unity\UnityTemp\Compile\Unity\Unity.Configuration\Src\UnityConfigurationSection.cs:line 136
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+8/10/2015 4:48:56 PM
+unity-genericlookup
+Unrecognized attribute 'visibility'. Note that attribute names are case-sensitive. (D:\ForTraining\Framework_Training\Rule.Web\Unity-GenericLookup.config line 134)
+   at System.Configuration.BaseConfigurationRecord.EvaluateOne(String[] keys, SectionInput input, Boolean isTrusted, FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult)
+   at System.Configuration.BaseConfigurationRecord.Evaluate(FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult, Boolean getLkg, Boolean getRuntimeObject, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Web.HttpContext.GetSection(String sectionName)
+   at System.Web.Configuration.HttpConfigurationSystem.GetSection(String sectionName)
+   at System.Web.Configuration.HttpConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String configKey)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+8/10/2015 4:52:04 PM
+unity-genericlookup
+Unrecognized attribute 'visibilty'. Note that attribute names are case-sensitive. (D:\ForTraining\Framework_Training\Rule.Web\Unity-GenericLookup.config line 134)
+   at System.Configuration.BaseConfigurationRecord.EvaluateOne(String[] keys, SectionInput input, Boolean isTrusted, FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult)
+   at System.Configuration.BaseConfigurationRecord.Evaluate(FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult, Boolean getLkg, Boolean getRuntimeObject, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Web.HttpContext.GetSection(String sectionName)
+   at System.Web.Configuration.HttpConfigurationSystem.GetSection(String sectionName)
+   at System.Web.Configuration.HttpConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String configKey)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+8/19/2015 9:04:28 AM
+unity-genericlookup
+Request is not available in this context
+   at System.Web.HttpContext.get_Request()
+   at Rule.Web.Configurer.GenericLookupConfigurer.Configure(IUnityContainer container) in d:\ForTraining\Framework_Training\Rule.Web\Configurer\GenericLookupConfigurer.cs:line 21
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+8/19/2015 9:21:35 AM
+unity-genericlookup
+Request is not available in this context
+   at System.Web.HttpContext.get_Request()
+   at Rule.Web.Configurer.GenericLookupConfigurer.Configure(IUnityContainer container) in d:\ForTraining\Framework_Training\Rule.Web\Configurer\GenericLookupConfigurer.cs:line 21
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+7/22/2022 9:24:05 AM
+unity-genericlookup
+Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at AdIns.Util.ClassDiscovererHelper.GetTypes()
+   at Rule.Web.Configurer.ServicesConfigurer.Configure(IUnityContainer container) in c:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Rule.Web\Configurer\ServicesConfigurer.cs:line 37
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+7/22/2022 9:26:18 AM
+unity-genericlookup
+Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at AdIns.Util.ClassDiscovererHelper.GetTypes()
+   at Rule.Web.Configurer.ServicesConfigurer.Configure(IUnityContainer container) in c:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Rule.Web\Configurer\ServicesConfigurer.cs:line 37
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+7/22/2022 9:28:55 AM
+unity-genericlookup
+Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at AdIns.Util.ClassDiscovererHelper.GetTypes()
+   at Rule.Web.Configurer.ServicesConfigurer.Configure(IUnityContainer container) in c:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Rule.Web\Configurer\ServicesConfigurer.cs:line 37
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+7/22/2022 9:59:24 AM
+unity-genericlookup
+Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at AdIns.Util.ClassDiscovererHelper.GetTypes()
+   at Rule.Web.Configurer.ServicesConfigurer.Configure(IUnityContainer container) in c:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Rule.Web\Configurer\ServicesConfigurer.cs:line 37
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+7/25/2022 10:01:06 PM
+unity-genericlookup
+Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at AdIns.Util.ClassDiscovererHelper.GetTypes()
+   at Rule.Web.Configurer.ServicesConfigurer.Configure(IUnityContainer container) in c:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Rule.Web\Configurer\ServicesConfigurer.cs:line 37
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+
+7/25/2022 10:30:18 PM
+unity-genericlookup
+Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at AdIns.Util.ClassDiscovererHelper.GetTypes()
+   at Rule.Web.Configurer.ServicesConfigurer.Configure(IUnityContainer container) in c:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Rule.Web\Configurer\ServicesConfigurer.cs:line 37
+   at AdIns.Service.UnityFactory.CreateContainer(String[] unityConfigSectionNames, String[] configurerNames)
+

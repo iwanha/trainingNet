@@ -1,0 +1,109 @@
+D:\Project\Rule\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\Project\Rule\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\Project\Rule\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\Project\Rule\Rule.DataModel.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Rule\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\Project\Rule\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+C:\Project\Approval\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+C:\Project\Approval\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+C:\Project\Approval\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+C:\Project\Approval\Rule.DataModel.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Approval\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+C:\Project\Approval\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+C:\Project\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+C:\Project\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+C:\Project\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+C:\Project\Framework_Training\Rule.DataModel.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+C:\Project\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.DataModel.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\Paket Ngajar\Framework_Training\Framework_Training\Rule.DataModel.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Paket Ngajar\Framework_Training\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\ADINS\TRAINING\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\ADINS\TRAINING\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.csprojResolveAssemblyReference.cache
+D:\ADINS\TRAINING\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.csprojResolveAssemblyReference.cache
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\ForTraining\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\ForTraining\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\ForTraining\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\ForTraining\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.csprojResolveAssemblyReference.cache
+D:\ForTraining\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\ForTraining\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.csprojResolveAssemblyReference.cache
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.csprojResolveAssemblyReference.cache
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.csprojResolveAssemblyReference.cache
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+D:\Paket_Hemat\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+D:\Paket_Hemat\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+D:\Paket_Hemat\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.csprojResolveAssemblyReference.cache
+D:\Paket_Hemat\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+D:\Paket_Hemat\Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.csprojResolveAssemblyReference.cache
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll.config
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Rule.DataModel.Common\bin\Debug\Rule.DataModel.Common.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Rule.DataModel.Common\obj\Debug\Rule.DataModel.Common.pdb

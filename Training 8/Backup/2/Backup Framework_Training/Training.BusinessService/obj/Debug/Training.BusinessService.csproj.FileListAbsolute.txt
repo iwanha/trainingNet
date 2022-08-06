@@ -1,0 +1,609 @@
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Project\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Project\Framework_Training\Training.BusinessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+C:\Project\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\EXAM\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\Training AdIns\2010\Framework_Training_Empty\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\ADINS\TRAINING\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\ADINS\TRAINING\Exam\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\ForTraining\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+D:\ForTraining\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\ForTraining\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\Training\ForTraining\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\Training\ForTrainer\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+C:\MyData\Training\ForTrainer\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\My Data\Training\ForTrainer\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\TrainingEntitiesSQL.Designer.cs
+C:\Users\wendy\Downloads\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\TrainingEntitiesSQL.edmx.diagram
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\Paket_Hemat\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+D:\New folder\Paket_Hemat\Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+E:\Job\Backup Framework_Training\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 5\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 6\Excercise\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 7\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.BusinessService.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Util.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.BusinessService.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataModel.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.DataAccess.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.Channel.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Confins.Common.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Service.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\AdIns.Notification.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Rule.Common.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.API.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataAccess.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.dll
+C:\Users\iwan.hs\Documents\Training 8\Excercise Iwan\Backup Framework_Training\Training.BusinessService\obj\Debug\Training.BusinessService.pdb

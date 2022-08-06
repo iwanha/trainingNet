@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TrainingModelStoreContainer">
+    <EntitySet Name="CUST" EntityType="TrainingModel.Store.CUST" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CUST_ADDR" EntityType="TrainingModel.Store.CUST_ADDR" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__CUST_ADDR__CUST___25869641" Association="TrainingModel.Store.FK__CUST_ADDR__CUST___25869641">
+      <End Role="CUST" EntitySet="CUST" />
+      <End Role="CUST_ADDR" EntitySet="CUST_ADDR" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CUST">
+    <Key>
+      <PropertyRef Name="CUST_ID" />
+    </Key>
+    <Property Name="CUST_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CUST_NO" Type="varchar" MaxLength="20" />
+    <Property Name="CUST_TYPE" Type="varchar" MaxLength="5" />
+    <Property Name="CUST_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="IDENTITY_TYPE" Type="varchar" MaxLength="5" />
+    <Property Name="IDENTITY_NO" Type="varchar" MaxLength="16" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CUST_ADDR">
+    <Key>
+      <PropertyRef Name="CUST_ADDR_ID" />
+    </Key>
+    <Property Name="CUST_ADDR_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CUST_ID" Type="bigint" />
+    <Property Name="ADDRESS" Type="varchar" MaxLength="200" />
+    <Property Name="ADDRESS_TYPE" Type="varchar" MaxLength="20" />
+    <Property Name="RT" Type="varchar" MaxLength="3" />
+    <Property Name="RW" Type="varchar" MaxLength="3" />
+    <Property Name="KELURAHAN" Type="varchar" MaxLength="20" />
+    <Property Name="KECAMATAN" Type="varchar" MaxLength="20" />
+    <Property Name="CITY" Type="varchar" MaxLength="20" />
+    <Property Name="ZIPCODE" Type="varchar" MaxLength="10" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <Association Name="FK__CUST_ADDR__CUST___25869641">
+    <End Role="CUST" Type="TrainingModel.Store.CUST" Multiplicity="0..1" />
+    <End Role="CUST_ADDR" Type="TrainingModel.Store.CUST_ADDR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CUST">
+        <PropertyRef Name="CUST_ID" />
+      </Principal>
+      <Dependent Role="CUST_ADDR">
+        <PropertyRef Name="CUST_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

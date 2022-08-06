@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrainingModelStoreContainer" CdmEntityContainer="TrainingEntities">
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="TrainingModel.Product">
+        <MappingFragment StoreEntitySet="PRODUCT">
+          <ScalarProperty Name="ProductId" ColumnName="PRODUCT_ID" />
+          <ScalarProperty Name="ProductName" ColumnName="PRODUCT_NAME" />
+          <ScalarProperty Name="ProductType" ColumnName="PRODUCT_TYPE" />
+          <ScalarProperty Name="Price" ColumnName="PRICE" />
+          <ScalarProperty Name="ProductionDate" ColumnName="PRODUCTION_DATE" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="TrainingModel.Customer">
+        <MappingFragment StoreEntitySet="CUSTOMER">
+          <ScalarProperty Name="Zipcode" ColumnName="ZIPCODE" />
+          <ScalarProperty Name="Phone" ColumnName="PHONE" />
+          <ScalarProperty Name="PhoneArea" ColumnName="PHONE_AREA" />
+          <ScalarProperty Name="City" ColumnName="CITY" />
+          <ScalarProperty Name="Kecamatan" ColumnName="KECAMATAN" />
+          <ScalarProperty Name="Kelurahan" ColumnName="KELURAHAN" />
+          <ScalarProperty Name="Rw" ColumnName="RW" />
+          <ScalarProperty Name="Rt" ColumnName="RT" />
+          <ScalarProperty Name="Addr" ColumnName="ADDR" />
+          <ScalarProperty Name="MotherMaidenName" ColumnName="MOTHER_MAIDEN_NAME" />
+          <ScalarProperty Name="Job" ColumnName="JOB" />
+          <ScalarProperty Name="Gender" ColumnName="GENDER" />
+          <ScalarProperty Name="BirthPlc" ColumnName="BIRTH_PLC" />
+          <ScalarProperty Name="BirthDt" ColumnName="BIRTH_DT" />
+          <ScalarProperty Name="CustName" ColumnName="CUST_NAME" />
+          <ScalarProperty Name="CustId" ColumnName="CUST_ID" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TrainingModelStoreContainer">
+    <EntitySet Name="AGRMNT" EntityType="TrainingModel.Store.AGRMNT" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BRANCH" EntityType="TrainingModel.Store.BRANCH" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CUSTOMER" EntityType="TrainingModel.Store.CUSTOMER" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EMPLOYEE" EntityType="TrainingModel.Store.EMPLOYEE" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="HOLIDAY" EntityType="TrainingModel.Store.HOLIDAY" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MASTER_SEQUENCE" EntityType="TrainingModel.Store.MASTER_SEQUENCE" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PDC_DETAIL" EntityType="TrainingModel.Store.PDC_DETAIL" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PDC_HEADER" EntityType="TrainingModel.Store.PDC_HEADER" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PDC_HISTORY" EntityType="TrainingModel.Store.PDC_HISTORY" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PDC_RECEIPT" EntityType="TrainingModel.Store.PDC_RECEIPT" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="REF_BANK" EntityType="TrainingModel.Store.REF_BANK" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="REF_CURRENCY" EntityType="TrainingModel.Store.REF_CURRENCY" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__AGRMNT__BRANCH_I__3B75D760" Association="TrainingModel.Store.FK__AGRMNT__BRANCH_I__3B75D760">
+      <End Role="BRANCH" EntitySet="BRANCH" />
+      <End Role="AGRMNT" EntitySet="AGRMNT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AGRMNT__CURRENCY__3D5E1FD2" Association="TrainingModel.Store.FK__AGRMNT__CURRENCY__3D5E1FD2">
+      <End Role="REF_CURRENCY" EntitySet="REF_CURRENCY" />
+      <End Role="AGRMNT" EntitySet="AGRMNT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AGRMNT__CUSTOMER__3C69FB99" Association="TrainingModel.Store.FK__AGRMNT__CUSTOMER__3C69FB99">
+      <End Role="CUSTOMER" EntitySet="CUSTOMER" />
+      <End Role="AGRMNT" EntitySet="AGRMNT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_DETAI__PDC_H__4BAC3F29" Association="TrainingModel.Store.FK__PDC_DETAI__PDC_H__4BAC3F29">
+      <End Role="PDC_HEADER" EntitySet="PDC_HEADER" />
+      <End Role="PDC_DETAIL" EntitySet="PDC_DETAIL" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_HEADE__AGRMN__45F365D3" Association="TrainingModel.Store.FK__PDC_HEADE__AGRMN__45F365D3">
+      <End Role="AGRMNT" EntitySet="AGRMNT" />
+      <End Role="PDC_HEADER" EntitySet="PDC_HEADER" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_HEADE__PDC_R__44FF419A" Association="TrainingModel.Store.FK__PDC_HEADE__PDC_R__44FF419A">
+      <End Role="PDC_RECEIPT" EntitySet="PDC_RECEIPT" />
+      <End Role="PDC_HEADER" EntitySet="PDC_HEADER" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_HEADE__REF_B__46E78A0C" Association="TrainingModel.Store.FK__PDC_HEADE__REF_B__46E78A0C">
+      <End Role="REF_BANK" EntitySet="REF_BANK" />
+      <End Role="PDC_HEADER" EntitySet="PDC_HEADER" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_HISTO__PDC_H__5070F446" Association="TrainingModel.Store.FK__PDC_HISTO__PDC_H__5070F446">
+      <End Role="PDC_HEADER" EntitySet="PDC_HEADER" />
+      <End Role="PDC_HISTORY" EntitySet="PDC_HISTORY" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PDC_RECEI__EMPLO__4222D4EF" Association="TrainingModel.Store.FK__PDC_RECEI__EMPLO__4222D4EF">
+      <End Role="EMPLOYEE" EntitySet="EMPLOYEE" />
+      <End Role="PDC_RECEIPT" EntitySet="PDC_RECEIPT" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="AGRMNT">
+    <Key>
+      <PropertyRef Name="AGRMNT_ID" />
+    </Key>
+    <Property Name="AGRMNT_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="APP_NO" Type="varchar" MaxLength="20" />
+    <Property Name="AGRMNT_NO" Type="varchar" MaxLength="20" />
+    <Property Name="BRANCH_ID" Type="bigint" />
+    <Property Name="CUSTOMER_ID" Type="bigint" />
+    <Property Name="CURRENCY_ID" Type="bigint" />
+    <Property Name="APP_STEP" Type="varchar" MaxLength="3" />
+    <Property Name="CONTRACT_STAT" Type="varchar" MaxLength="3" />
+    <Property Name="INST_AMT" Type="decimal" Precision="17" Scale="2" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="BRANCH">
+    <Key>
+      <PropertyRef Name="BRANCH_ID" />
+    </Key>
+    <Property Name="BRANCH_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="BRANCH_CODE" Type="varchar" MaxLength="20" />
+    <Property Name="BRANCH_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CUSTOMER">
+    <Key>
+      <PropertyRef Name="CUSTOMER_ID" />
+    </Key>
+    <Property Name="CUSTOMER_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CUSTOMER_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="CUSTOMER_NO" Type="varchar" MaxLength="20" />
+    <Property Name="CUSTOMER_TYPE" Type="char" MaxLength="1" />
+    <Property Name="ADDRESS" Type="varchar" MaxLength="100" />
+    <Property Name="RT" Type="varchar" MaxLength="3" />
+    <Property Name="RW" Type="varchar" MaxLength="3" />
+    <Property Name="KELURAHAN" Type="varchar" MaxLength="20" />
+    <Property Name="KECAMATAN" Type="varchar" MaxLength="20" />
+    <Property Name="CITY" Type="varchar" MaxLength="20" />
+    <Property Name="ZIP_CODE" Type="varchar" MaxLength="10" />
+    <Property Name="PHONE" Type="varchar" MaxLength="20" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="EMPLOYEE">
+    <Key>
+      <PropertyRef Name="EMPLOYEE_ID" />
+    </Key>
+    <Property Name="EMPLOYEE_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EMPLOYEE_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="POSITION" Type="varchar" MaxLength="10" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="HOLIDAY">
+    <Key>
+      <PropertyRef Name="HOLIDAY_ID" />
+    </Key>
+    <Property Name="HOLIDAY_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="HOLIDAY_DATE" Type="datetime" />
+    <Property Name="DESCRIPTION" Type="varchar" MaxLength="100" />
+    <Property Name="IS_PUBLIC_HOLIDAY" Type="bit" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="MASTER_SEQUENCE">
+    <Key>
+      <PropertyRef Name="MASTER_SEQUENCE_ID" />
+    </Key>
+    <Property Name="MASTER_SEQUENCE_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SEQ_NO" Type="bigint" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PDC_DETAIL">
+    <Key>
+      <PropertyRef Name="PDC_DETAIL_ID" />
+    </Key>
+    <Property Name="PDC_DETAIL_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PDC_HEADER_ID" Type="bigint" />
+    <Property Name="PAYMENT_ALLOCATION" Type="varchar" MaxLength="50" />
+    <Property Name="DESCRIPTION" Type="varchar" MaxLength="100" />
+    <Property Name="AMOUNT" Type="decimal" Precision="17" Scale="2" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PDC_HEADER">
+    <Key>
+      <PropertyRef Name="PDC_HEADER_ID" />
+    </Key>
+    <Property Name="PDC_HEADER_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PDC_RECEIPT_ID" Type="bigint" />
+    <Property Name="AGRMNT_ID" Type="bigint" />
+    <Property Name="PDC_NO" Type="varchar" MaxLength="20" />
+    <Property Name="REF_BANK_ID" Type="bigint" />
+    <Property Name="GIRO_SEQ_NO" Type="int" />
+    <Property Name="RECEIVE_DATE" Type="datetime" />
+    <Property Name="PDC_AMOUNT" Type="decimal" Precision="17" Scale="2" />
+    <Property Name="PDC_DUE_DATE" Type="datetime" />
+    <Property Name="PDC_TYPE" Type="char" MaxLength="1" />
+    <Property Name="IS_INKASO" Type="bit" />
+    <Property Name="IS_CUMMULATIVE" Type="bit" />
+    <Property Name="PDC_STATUS" Type="char" MaxLength="2" />
+    <Property Name="FISIK_STATUS" Type="char" MaxLength="2" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PDC_HISTORY">
+    <Key>
+      <PropertyRef Name="PDC_HISTORY_ID" />
+    </Key>
+    <Property Name="PDC_HISTORY_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PDC_HEADER_ID" Type="bigint" />
+    <Property Name="PDC_STATUS" Type="char" MaxLength="2" />
+    <Property Name="FISIK_STATUS" Type="char" MaxLength="2" />
+    <Property Name="STATUS_DATE" Type="datetime" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PDC_RECEIPT">
+    <Key>
+      <PropertyRef Name="PDC_RECEIPT_ID" />
+    </Key>
+    <Property Name="PDC_RECEIPT_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PDC_RECEIPT_NO" Type="varchar" MaxLength="20" />
+    <Property Name="RECEIVE_DATE" Type="datetime" />
+    <Property Name="RECEIVE_FROM" Type="varchar" MaxLength="100" />
+    <Property Name="EMPLOYEE_ID" Type="bigint" />
+    <Property Name="ATAS_NAMA_PDC" Type="varchar" MaxLength="100" />
+    <Property Name="NUM_OF_PDC" Type="int" />
+    <Property Name="TOTAL_PDC_AMT" Type="decimal" Precision="17" Scale="2" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="REF_BANK">
+    <Key>
+      <PropertyRef Name="REF_BANK_ID" />
+    </Key>
+    <Property Name="REF_BANK_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="BANK_CODE" Type="varchar" MaxLength="20" />
+    <Property Name="BANK_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="IS_ACTIVE" Type="bit" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="REF_CURRENCY">
+    <Key>
+      <PropertyRef Name="REF_CURRENCY_ID" />
+    </Key>
+    <Property Name="REF_CURRENCY_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CURRENCY_CODE" Type="varchar" MaxLength="20" />
+    <Property Name="CURRENCY_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="IS_ACTIVE" Type="bit" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <Association Name="FK__AGRMNT__BRANCH_I__3B75D760">
+    <End Role="BRANCH" Type="TrainingModel.Store.BRANCH" Multiplicity="0..1" />
+    <End Role="AGRMNT" Type="TrainingModel.Store.AGRMNT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BRANCH">
+        <PropertyRef Name="BRANCH_ID" />
+      </Principal>
+      <Dependent Role="AGRMNT">
+        <PropertyRef Name="BRANCH_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__AGRMNT__CURRENCY__3D5E1FD2">
+    <End Role="REF_CURRENCY" Type="TrainingModel.Store.REF_CURRENCY" Multiplicity="0..1" />
+    <End Role="AGRMNT" Type="TrainingModel.Store.AGRMNT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REF_CURRENCY">
+        <PropertyRef Name="REF_CURRENCY_ID" />
+      </Principal>
+      <Dependent Role="AGRMNT">
+        <PropertyRef Name="CURRENCY_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__AGRMNT__CUSTOMER__3C69FB99">
+    <End Role="CUSTOMER" Type="TrainingModel.Store.CUSTOMER" Multiplicity="0..1" />
+    <End Role="AGRMNT" Type="TrainingModel.Store.AGRMNT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CUSTOMER">
+        <PropertyRef Name="CUSTOMER_ID" />
+      </Principal>
+      <Dependent Role="AGRMNT">
+        <PropertyRef Name="CUSTOMER_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_DETAI__PDC_H__4BAC3F29">
+    <End Role="PDC_HEADER" Type="TrainingModel.Store.PDC_HEADER" Multiplicity="0..1" />
+    <End Role="PDC_DETAIL" Type="TrainingModel.Store.PDC_DETAIL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PDC_HEADER">
+        <PropertyRef Name="PDC_HEADER_ID" />
+      </Principal>
+      <Dependent Role="PDC_DETAIL">
+        <PropertyRef Name="PDC_HEADER_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_HEADE__AGRMN__45F365D3">
+    <End Role="AGRMNT" Type="TrainingModel.Store.AGRMNT" Multiplicity="0..1" />
+    <End Role="PDC_HEADER" Type="TrainingModel.Store.PDC_HEADER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AGRMNT">
+        <PropertyRef Name="AGRMNT_ID" />
+      </Principal>
+      <Dependent Role="PDC_HEADER">
+        <PropertyRef Name="AGRMNT_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_HEADE__PDC_R__44FF419A">
+    <End Role="PDC_RECEIPT" Type="TrainingModel.Store.PDC_RECEIPT" Multiplicity="0..1" />
+    <End Role="PDC_HEADER" Type="TrainingModel.Store.PDC_HEADER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PDC_RECEIPT">
+        <PropertyRef Name="PDC_RECEIPT_ID" />
+      </Principal>
+      <Dependent Role="PDC_HEADER">
+        <PropertyRef Name="PDC_RECEIPT_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_HEADE__REF_B__46E78A0C">
+    <End Role="REF_BANK" Type="TrainingModel.Store.REF_BANK" Multiplicity="0..1" />
+    <End Role="PDC_HEADER" Type="TrainingModel.Store.PDC_HEADER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REF_BANK">
+        <PropertyRef Name="REF_BANK_ID" />
+      </Principal>
+      <Dependent Role="PDC_HEADER">
+        <PropertyRef Name="REF_BANK_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_HISTO__PDC_H__5070F446">
+    <End Role="PDC_HEADER" Type="TrainingModel.Store.PDC_HEADER" Multiplicity="0..1" />
+    <End Role="PDC_HISTORY" Type="TrainingModel.Store.PDC_HISTORY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PDC_HEADER">
+        <PropertyRef Name="PDC_HEADER_ID" />
+      </Principal>
+      <Dependent Role="PDC_HISTORY">
+        <PropertyRef Name="PDC_HEADER_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PDC_RECEI__EMPLO__4222D4EF">
+    <End Role="EMPLOYEE" Type="TrainingModel.Store.EMPLOYEE" Multiplicity="0..1" />
+    <End Role="PDC_RECEIPT" Type="TrainingModel.Store.PDC_RECEIPT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EMPLOYEE">
+        <PropertyRef Name="EMPLOYEE_ID" />
+      </Principal>
+      <Dependent Role="PDC_RECEIPT">
+        <PropertyRef Name="EMPLOYEE_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

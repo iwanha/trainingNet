@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="117e75f5369a4f21a4d4d1d78cc1edf1" Name="Diagram1" ZoomLevel="29">
+        <EntityTypeShape EntityType="TrainingModel.Agrmnt" Width="1.5" PointX="8.0061882995097839" PointY="27.631276992909275" />
+        <EntityTypeShape EntityType="TrainingModel.Branch" Width="1.5" PointX="1.9177511715878504" PointY="11.266456221820068" />
+        <EntityTypeShape EntityType="TrainingModel.Customer" Width="1.5" PointX="1.6723016098478349" PointY="1.8065146812268136" />
+        <EntityTypeShape EntityType="TrainingModel.Employee" Width="1.5" PointX="7.6022436765964354" PointY="0.89238417190144959" />
+        <EntityTypeShape EntityType="TrainingModel.Holiday" Width="1.5" PointX="3.644388418479072" PointY="18.991629475258119" />
+        <EntityTypeShape EntityType="TrainingModel.MasterSequence" Width="1.5" PointX="4.199179660621648" PointY="13.206959477256499" />
+        <EntityTypeShape EntityType="TrainingModel.PdcDetail" Width="1.5" PointX="10.337784049258467" PointY="8.63067031308574" />
+        <EntityTypeShape EntityType="TrainingModel.PdcHeader" Width="1.5" PointX="0.13695397234379964" PointY="17.978509091762131" />
+        <EntityTypeShape EntityType="TrainingModel.PdcHistory" Width="1.5" PointX="2.136751760792337" PointY="5.0557559901176745" />
+        <EntityTypeShape EntityType="TrainingModel.PdcReceipt" Width="1.5" PointX="8.0882557258420888" PointY="23.666522305303495" />
+        <EntityTypeShape EntityType="TrainingModel.RefBank" Width="1.5" PointX="7.96728742866185" PointY="8.00586645677959" />
+        <EntityTypeShape EntityType="TrainingModel.RefCurrency" Width="1.5" PointX="2.498232192591872" PointY="21.477543840872844" />
+        <AssociationConnector Association="TrainingModel.FK__AGRMNT__BRANCH_I__3B75D760" />
+        <AssociationConnector Association="TrainingModel.FK__AGRMNT__CURRENCY__3D5E1FD2" />
+        <AssociationConnector Association="TrainingModel.FK__AGRMNT__CUSTOMER__3C69FB99" />
+        <AssociationConnector Association="TrainingModel.FK__PDC_HEADE__AGRMN__45F365D3" />
+        <AssociationConnector Association="TrainingModel.FK__PDC_RECEI__EMPLO__4222D4EF" />
+        <AssociationConnector Association="TrainingModel.FK__PDC_DETAI__PDC_H__4BAC3F29" />
+        <AssociationConnector Association="TrainingModel.FK__PDC_HEADE__PDC_R__44FF419A" />
+        <AssociationConnector Association="TrainingModel.FK__PDC_HEADE__REF_B__46E78A0C" />
+        <AssociationConnector Association="TrainingModel.FK__PDC_HISTO__PDC_H__5070F446" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

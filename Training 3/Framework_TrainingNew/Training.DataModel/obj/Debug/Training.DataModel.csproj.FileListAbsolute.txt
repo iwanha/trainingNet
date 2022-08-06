@@ -1,0 +1,84 @@
+C:\Project\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+C:\Project\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+C:\Project\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+C:\Project\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+C:\Project\Framework_Training\Training.DataModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+C:\Project\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataModel\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+D:\Document\Bahan Training\Training - NC Framework\Framework_Training V2\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\obj\Debug\ResolveAssemblyReference.cache
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+D:\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+D:\Training\Training-4\Training EDMX\Framework_Training V2\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataModel\obj\Debug\ResolveAssemblyReference.cache
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+D:\Paket Ngajar\Framework_Training_Empty\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+D:\WTF\Framework_Training_Empty\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+D:\WTF\Framework_Training_Empty\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+D:\WTF\Framework_Training_Empty\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+D:\WTF\Framework_Training_Empty\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+D:\WTF\Framework_Training_Empty\Framework_Training\Training.DataModel\obj\Debug\ResolveAssemblyReference.cache
+D:\WTF\Framework_Training_Empty\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+D:\WTF\Framework_Training_Empty\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+D:\TRAINING NEW\DAY 1\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+D:\TRAINING NEW\DAY 1\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+D:\TRAINING NEW\DAY 1\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+D:\TRAINING NEW\DAY 1\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+D:\TRAINING NEW\DAY 1\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.csprojResolveAssemblyReference.cache
+D:\TRAINING NEW\DAY 1\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+D:\TRAINING NEW\DAY 1\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+F:\Project_HC\Other\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+F:\Project_HC\Other\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+F:\Project_HC\Other\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+F:\Project_HC\Other\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+F:\Project_HC\Other\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.csprojResolveAssemblyReference.cache
+F:\Project_HC\Other\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+F:\Project_HC\Other\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.csprojResolveAssemblyReference.cache
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+F:\Other\Training\Training ASP 12 September 2019\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.dll
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Training.DataModel\bin\Debug\Training.DataModel.pdb
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.dll
+C:\Users\billy.as\Downloads\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_Training\Training.DataModel\obj\Debug\Training.DataModel.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Training.DataModel\bin\Debug\Training.DataModel.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Training.DataModel\bin\Debug\Training.DataModel.pdb
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Training.DataModel\obj\Debug\Training.DataModel.csprojResolveAssemblyReference.cache
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Training.DataModel\obj\Debug\Training.DataModel.dll
+D:\Project\Training ASP 12 September 2019\Training ASP 12 September 2019\Framework_TrainingNew\Training.DataModel\obj\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Framework_TrainingNew\Training.DataModel\bin\Debug\Training.DataModel.dll.config
+C:\Users\iwan.hs\Documents\Framework_TrainingNew\Training.DataModel\bin\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Framework_TrainingNew\Training.DataModel\bin\Debug\Training.DataModel.pdb
+C:\Users\iwan.hs\Documents\Framework_TrainingNew\Training.DataModel\bin\Debug\AdIns.DataModel.dll
+C:\Users\iwan.hs\Documents\Framework_TrainingNew\Training.DataModel\obj\Debug\Training.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\iwan.hs\Documents\Framework_TrainingNew\Training.DataModel\obj\Debug\Training.DataModel.dll
+C:\Users\iwan.hs\Documents\Framework_TrainingNew\Training.DataModel\obj\Debug\Training.DataModel.pdb

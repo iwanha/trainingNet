@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DAY4ModelStoreContainer" CdmEntityContainer="TrainingDay4Entities">
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="DAY4Model.Product">
+        <MappingFragment StoreEntitySet="PRODUCT">
+          <ScalarProperty Name="ProductionDate" ColumnName="PRODUCTION_DATE" />
+          <ScalarProperty Name="Price" ColumnName="PRICE" />
+          <ScalarProperty Name="ProductType" ColumnName="PRODUCT_TYPE" />
+          <ScalarProperty Name="ProductName" ColumnName="PRODUCT_NAME" />
+          <ScalarProperty Name="ProductId" ColumnName="PRODUCT_ID" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

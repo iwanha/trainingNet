@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MenuModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="MenuEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="RefFolders" EntityType="MenuModel.RefFolder" />
+    <EntitySet Name="RefForms" EntityType="MenuModel.RefForm" />
+    <AssociationSet Name="FK_REF_FOLDER_REF_FOLDER" Association="MenuModel.FK_REF_FOLDER_REF_FOLDER">
+      <End Role="REF_FOLDER" EntitySet="RefFolders" />
+      <End Role="REF_FOLDER1" EntitySet="RefFolders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_REF_FORM_REF_FOLDER" Association="MenuModel.FK_REF_FORM_REF_FOLDER">
+      <End Role="REF_FOLDER" EntitySet="RefFolders" />
+      <End Role="REF_FORM" EntitySet="RefForms" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="RefFolder">
+    <Key>
+      <PropertyRef Name="RefFolderId" />
+    </Key>
+    <Property Name="RefFolderId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FolderName" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ParentId" Type="Int64" />
+    <Property Name="HierarchyNo" Type="Int32" Nullable="false" />
+    <Property Name="OrderNo" Type="Int32" Nullable="false" />
+    <Property Name="IsHidden" Type="String" Nullable="false" MaxLength="1" Unicode="false" FixedLength="true" />
+    <NavigationProperty Name="ChildRefFolders" Relationship="MenuModel.FK_REF_FOLDER_REF_FOLDER" FromRole="REF_FOLDER" ToRole="REF_FOLDER1" />
+    <NavigationProperty Name="ParentRefFolder" Relationship="MenuModel.FK_REF_FOLDER_REF_FOLDER" FromRole="REF_FOLDER1" ToRole="REF_FOLDER" />
+    <NavigationProperty Name="RefForms" Relationship="MenuModel.FK_REF_FORM_REF_FOLDER" FromRole="REF_FOLDER" ToRole="REF_FORM" />
+    <Property Name="LastUserTimestamp" Type="MenuModel.UserTimestamp" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RefForm">
+    <Key>
+      <PropertyRef Name="RefFormId" />
+    </Key>
+    <Property Name="RefFormId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FormName" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="FormURL" Type="String" Nullable="false" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="RefFolderId" Type="Int64" Nullable="false" />
+    <Property Name="OrderNo" Type="Int32" Nullable="false" />
+    <Property Name="IsHidden" Type="String" Nullable="false" MaxLength="1" Unicode="false" FixedLength="true" />
+    <NavigationProperty Name="RefFolder" Relationship="MenuModel.FK_REF_FORM_REF_FOLDER" FromRole="REF_FORM" ToRole="REF_FOLDER" />
+    <Property Name="LastUserTimestamp" Type="MenuModel.UserTimestamp" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_REF_FOLDER_REF_FOLDER">
+    <End Role="REF_FOLDER" Type="MenuModel.RefFolder" Multiplicity="0..1" />
+    <End Role="REF_FOLDER1" Type="MenuModel.RefFolder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REF_FOLDER">
+        <PropertyRef Name="RefFolderId" />
+      </Principal>
+      <Dependent Role="REF_FOLDER1">
+        <PropertyRef Name="ParentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_REF_FORM_REF_FOLDER">
+    <End Role="REF_FOLDER" Type="MenuModel.RefFolder" Multiplicity="1" />
+    <End Role="REF_FORM" Type="MenuModel.RefForm" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REF_FOLDER">
+        <PropertyRef Name="RefFolderId" />
+      </Principal>
+      <Dependent Role="REF_FORM">
+        <PropertyRef Name="RefFolderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="UserTimestamp">
+    <Property Type="String" Name="UsrUpd" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="DtmUpd" Nullable="false" />
+    <Property Type="String" Name="UsrCrt" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="DtmCrt" Nullable="false" />
+  </ComplexType>
+</Schema>

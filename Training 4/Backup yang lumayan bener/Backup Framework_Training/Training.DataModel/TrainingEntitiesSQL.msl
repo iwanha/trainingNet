@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrainingModelStoreContainer" CdmEntityContainer="TrainingEntities">
+    <EntitySetMapping Name="Custs">
+      <EntityTypeMapping TypeName="TrainingModel.Cust">
+        <MappingFragment StoreEntitySet="CUST">
+          <ScalarProperty Name="IdentityNo" ColumnName="IDENTITY_NO" />
+          <ScalarProperty Name="IdentityType" ColumnName="IDENTITY_TYPE" />
+          <ScalarProperty Name="CustName" ColumnName="CUST_NAME" />
+          <ScalarProperty Name="CustType" ColumnName="CUST_TYPE" />
+          <ScalarProperty Name="CustNo" ColumnName="CUST_NO" />
+          <ScalarProperty Name="CustId" ColumnName="CUST_ID" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CustAddrs">
+      <EntityTypeMapping TypeName="TrainingModel.CustAddr">
+        <MappingFragment StoreEntitySet="CUST_ADDR">
+          <ScalarProperty Name="Zipcode" ColumnName="ZIPCODE" />
+          <ScalarProperty Name="City" ColumnName="CITY" />
+          <ScalarProperty Name="Kecamatan" ColumnName="KECAMATAN" />
+          <ScalarProperty Name="Kelurahan" ColumnName="KELURAHAN" />
+          <ScalarProperty Name="Rw" ColumnName="RW" />
+          <ScalarProperty Name="Rt" ColumnName="RT" />
+          <ScalarProperty Name="AddressType" ColumnName="ADDRESS_TYPE" />
+          <ScalarProperty Name="Address" ColumnName="ADDRESS" />
+          <ScalarProperty Name="CustId" ColumnName="CUST_ID" />
+          <ScalarProperty Name="CustAddrId" ColumnName="CUST_ADDR_ID" />
+          <ComplexProperty Name="LastUserTimestamp">
+            <ScalarProperty Name="DtmUpd" ColumnName="DTM_UPD" />
+            <ScalarProperty Name="UsrUpd" ColumnName="USR_UPD" />
+            <ScalarProperty Name="DtmCrt" ColumnName="DTM_CRT" />
+            <ScalarProperty Name="UsrCrt" ColumnName="USR_CRT" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

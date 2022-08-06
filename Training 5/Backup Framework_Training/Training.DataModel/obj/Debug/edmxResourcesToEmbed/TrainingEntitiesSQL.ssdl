@@ -1,0 +1,643 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TrainingModelStoreContainer">
+    <EntitySet Name="Agrmnt" EntityType="TrainingModel.Store.Agrmnt" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Branch" EntityType="TrainingModel.Store.Branch" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Branch_Employee" EntityType="TrainingModel.Store.Branch_Employee" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Curr" EntityType="TrainingModel.Store.Curr" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CUST" EntityType="TrainingModel.Store.CUST" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customer" EntityType="TrainingModel.Store.Customer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EMPLOYEE" EntityType="TrainingModel.Store.EMPLOYEE" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Holiday" EntityType="TrainingModel.Store.Holiday" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Master_Sequence" EntityType="TrainingModel.Store.Master_Sequence" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OFFICE_HEAD" EntityType="TrainingModel.Store.OFFICE_HEAD" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PDC_Detail" EntityType="TrainingModel.Store.PDC_Detail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PDC_Header" EntityType="TrainingModel.Store.PDC_Header" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PDC_History" EntityType="TrainingModel.Store.PDC_History" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PDC_Receipt" EntityType="TrainingModel.Store.PDC_Receipt" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PROD_TRX_D" EntityType="TrainingModel.Store.PROD_TRX_D" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PROD_TRX_H" EntityType="TrainingModel.Store.PROD_TRX_H" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PRODUCT" EntityType="TrainingModel.Store.PRODUCT" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PRODUCT_D" EntityType="TrainingModel.Store.PRODUCT_D" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PRODUCT_H" EntityType="TrainingModel.Store.PRODUCT_H" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Ref_Bank" EntityType="TrainingModel.Store.Ref_Bank" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="REF_MASTER" EntityType="TrainingModel.Store.REF_MASTER" store:Type="Tables" store:Schema="dbo" store:Name="REF_MASTER">
+      <DefiningQuery>SELECT 
+      [REF_MASTER].[REF_MASTER_ID] AS [REF_MASTER_ID], 
+      [REF_MASTER].[MASTER_CODE] AS [MASTER_CODE], 
+      [REF_MASTER].[DESCRIPTION] AS [DESCRIPTION], 
+      [REF_MASTER].[MASTER_TYPE] AS [MASTER_TYPE], 
+      [REF_MASTER].[USR_CRT] AS [USR_CRT], 
+      [REF_MASTER].[DTM_CRT] AS [DTM_CRT], 
+      [REF_MASTER].[USR_UPD] AS [USR_UPD], 
+      [REF_MASTER].[DTM_UPD] AS [DTM_UPD]
+      FROM [dbo].[REF_MASTER] AS [REF_MASTER]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="REF_OFFICE" EntityType="TrainingModel.Store.REF_OFFICE" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SUPPL" EntityType="TrainingModel.Store.SUPPL" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Agrmnt_Branch" Association="TrainingModel.Store.FK_Agrmnt_Branch">
+      <End Role="Branch" EntitySet="Branch" />
+      <End Role="Agrmnt" EntitySet="Agrmnt" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Agrmnt_Curr" Association="TrainingModel.Store.FK_Agrmnt_Curr">
+      <End Role="Curr" EntitySet="Curr" />
+      <End Role="Agrmnt" EntitySet="Agrmnt" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AGRMNT_CUSTOMER" Association="TrainingModel.Store.FK_AGRMNT_CUSTOMER">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Agrmnt" EntitySet="Agrmnt" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EMPLOYEE_OFFICE_HEAD" Association="TrainingModel.Store.FK_EMPLOYEE_OFFICE_HEAD">
+      <End Role="OFFICE_HEAD" EntitySet="OFFICE_HEAD" />
+      <End Role="EMPLOYEE" EntitySet="EMPLOYEE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OFFICE_HEAD_REF_OFFICE" Association="TrainingModel.Store.FK_OFFICE_HEAD_REF_OFFICE">
+      <End Role="REF_OFFICE" EntitySet="REF_OFFICE" />
+      <End Role="OFFICE_HEAD" EntitySet="OFFICE_HEAD" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PDC_Detail_PDC_Header" Association="TrainingModel.Store.FK_PDC_Detail_PDC_Header">
+      <End Role="PDC_Header" EntitySet="PDC_Header" />
+      <End Role="PDC_Detail" EntitySet="PDC_Detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PDC_Header_Branch_Employee" Association="TrainingModel.Store.FK_PDC_Header_Branch_Employee">
+      <End Role="Branch_Employee" EntitySet="Branch_Employee" />
+      <End Role="PDC_Header" EntitySet="PDC_Header" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PDC_Header_PDC_Receipt" Association="TrainingModel.Store.FK_PDC_Header_PDC_Receipt">
+      <End Role="PDC_Receipt" EntitySet="PDC_Receipt" />
+      <End Role="PDC_Header" EntitySet="PDC_Header" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PDC_Header_Ref_Bank" Association="TrainingModel.Store.FK_PDC_Header_Ref_Bank">
+      <End Role="Ref_Bank" EntitySet="Ref_Bank" />
+      <End Role="PDC_Header" EntitySet="PDC_Header" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PDC_History_PDC_Header" Association="TrainingModel.Store.FK_PDC_History_PDC_Header">
+      <End Role="PDC_Header" EntitySet="PDC_Header" />
+      <End Role="PDC_History" EntitySet="PDC_History" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PDC_Receipt_Agrmnt" Association="TrainingModel.Store.FK_PDC_Receipt_Agrmnt">
+      <End Role="Agrmnt" EntitySet="Agrmnt" />
+      <End Role="PDC_Receipt" EntitySet="PDC_Receipt" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROD_TRX_H_CUST" Association="TrainingModel.Store.FK_PROD_TRX_H_CUST">
+      <End Role="CUST" EntitySet="CUST" />
+      <End Role="PROD_TRX_H" EntitySet="PROD_TRX_H" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROD_TRX_H_PROD_TRX_D" Association="TrainingModel.Store.FK_PROD_TRX_H_PROD_TRX_D">
+      <End Role="PROD_TRX_H" EntitySet="PROD_TRX_H" />
+      <End Role="PROD_TRX_D" EntitySet="PROD_TRX_D" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PRODUCT_D_PRODUCT_H" Association="TrainingModel.Store.FK_PRODUCT_D_PRODUCT_H">
+      <End Role="PRODUCT_H" EntitySet="PRODUCT_H" />
+      <End Role="PRODUCT_D" EntitySet="PRODUCT_D" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PRODUCT_TRX_D_PRODUCT_D" Association="TrainingModel.Store.FK_PRODUCT_TRX_D_PRODUCT_D">
+      <End Role="PRODUCT_D" EntitySet="PRODUCT_D" />
+      <End Role="PROD_TRX_D" EntitySet="PROD_TRX_D" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Agrmnt">
+    <Key>
+      <PropertyRef Name="Agrmnt_Id" />
+    </Key>
+    <Property Name="Agrmnt_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="App_Id" Type="varchar" MaxLength="20" />
+    <Property Name="Agrmnt_No" Type="varchar" MaxLength="20" />
+    <Property Name="Branch_Id" Type="bigint" />
+    <Property Name="Cust_Id" Type="bigint" />
+    <Property Name="Curr_Id" Type="bigint" />
+    <Property Name="App_Step" Type="varchar" MaxLength="3" />
+    <Property Name="Contract_Stat" Type="varchar" MaxLength="3" />
+    <Property Name="Inst_Amt" Type="decimal" Scale="2" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Branch">
+    <Key>
+      <PropertyRef Name="Branch_Id" />
+    </Key>
+    <Property Name="Branch_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Branch_Code" Type="varchar" MaxLength="10" />
+    <Property Name="Branch_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Branch_Employee">
+    <Key>
+      <PropertyRef Name="Employee_Id" />
+    </Key>
+    <Property Name="Employee_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Employee_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Position" Type="varchar" MaxLength="10" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Curr">
+    <Key>
+      <PropertyRef Name="Curr_Id" />
+    </Key>
+    <Property Name="Curr_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Curr_Code" Type="varchar" MaxLength="10" />
+    <Property Name="Curr_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CUST">
+    <Key>
+      <PropertyRef Name="CUST_ID" />
+    </Key>
+    <Property Name="CUST_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CUST_NO" Type="varchar" MaxLength="50" />
+    <Property Name="CUST_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="CUST_TYPE" Type="char" MaxLength="1" />
+    <Property Name="ADDRESS" Type="varchar" MaxLength="100" />
+    <Property Name="RT" Type="varchar" MaxLength="3" />
+    <Property Name="RW" Type="varchar" MaxLength="3" />
+    <Property Name="KELURAHAN" Type="varchar" MaxLength="20" />
+    <Property Name="KECAMATAN" Type="varchar" MaxLength="20" />
+    <Property Name="CITY" Type="varchar" MaxLength="20" />
+    <Property Name="ZIPCODE" Type="varchar" MaxLength="10" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Cust_Id" />
+    </Key>
+    <Property Name="Cust_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Cust_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="50" />
+    <Property Name="Rt" Type="varchar" MaxLength="3" />
+    <Property Name="Rw" Type="varchar" MaxLength="3" />
+    <Property Name="Kelurahan" Type="varchar" MaxLength="20" />
+    <Property Name="Kecamatan" Type="varchar" MaxLength="20" />
+    <Property Name="City" Type="varchar" MaxLength="20" />
+    <Property Name="Zip_Code" Type="varchar" MaxLength="10" />
+    <Property Name="Phone" Type="varchar" MaxLength="20" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="EMPLOYEE">
+    <Key>
+      <PropertyRef Name="EMPLOYEE_ID" />
+    </Key>
+    <Property Name="EMPLOYEE_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EMPLOYEE_NO" Type="varchar" MaxLength="10" />
+    <Property Name="EMPLOYEE_FIRST_NAME" Type="varchar" MaxLength="50" />
+    <Property Name="EMPLOYEE_LAST_NAME" Type="varchar" MaxLength="50" />
+    <Property Name="JOIN_DT" Type="datetime" />
+    <Property Name="POSITION" Type="varchar" MaxLength="10" />
+    <Property Name="ADDR" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="RT" Type="varchar" Nullable="false" MaxLength="3" />
+    <Property Name="RW" Type="varchar" Nullable="false" MaxLength="3" />
+    <Property Name="ZIPCODE" Type="varchar" Nullable="false" MaxLength="5" />
+    <Property Name="PHN" Type="varchar" MaxLength="20" />
+    <Property Name="MOBILE_PHN" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="200" />
+    <Property Name="REF_OFFICE_ID" Type="bigint" Nullable="false" />
+    <Property Name="USR_UPD" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" Nullable="false" />
+    <Property Name="USR_CRT" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" Nullable="false" />
+    <Property Name="IS_ACTIVE" Type="char" Nullable="false" MaxLength="1" />
+    <Property Name="OFFICE_HEAD_ID" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Holiday">
+    <Key>
+      <PropertyRef Name="Holiday_Id" />
+    </Key>
+    <Property Name="Holiday_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Holiday_Date" Type="datetime" />
+    <Property Name="Description" Type="varchar" MaxLength="50" />
+    <Property Name="Is_Public_Holiday" Type="bit" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Master_Sequence">
+    <Key>
+      <PropertyRef Name="Master_Sequence_Id" />
+    </Key>
+    <Property Name="Master_Sequence_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Sequence_No" Type="bigint" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="OFFICE_HEAD">
+    <Key>
+      <PropertyRef Name="OFFICE_HEAD_ID" />
+    </Key>
+    <Property Name="OFFICE_HEAD_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="OFFICE_HEAD_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="100" />
+    <Property Name="PHN" Type="varchar" MaxLength="20" />
+    <Property Name="MOBILE_PHN" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="USR_UPD" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" Nullable="false" />
+    <Property Name="USR_CRT" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" Nullable="false" />
+    <Property Name="REF_OFFICE_ID" Type="bigint" />
+  </EntityType>
+  <EntityType Name="PDC_Detail">
+    <Key>
+      <PropertyRef Name="PDC_Detail_Id" />
+    </Key>
+    <Property Name="PDC_Detail_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PDC_Header_Id" Type="bigint" />
+    <Property Name="Payment_Allocation" Type="varchar" MaxLength="10" />
+    <Property Name="Description" Type="varchar" MaxLength="50" />
+    <Property Name="Amount" Type="decimal" Scale="2" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PDC_Header">
+    <Key>
+      <PropertyRef Name="PDC_Header_Id" />
+    </Key>
+    <Property Name="PDC_Header_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PDC_Receipt_Id" Type="bigint" />
+    <Property Name="PDC_No" Type="varchar" MaxLength="20" />
+    <Property Name="Ref_Bank_Id" Type="bigint" />
+    <Property Name="Giro_Seq_No" Type="int" />
+    <Property Name="Atas_Nama_PDC" Type="varchar" MaxLength="50" />
+    <Property Name="Receive_Date" Type="datetime" />
+    <Property Name="Employee_Id" Type="bigint" />
+    <Property Name="Receive_From" Type="varchar" MaxLength="30" />
+    <Property Name="PDC_Amount" Type="decimal" Scale="2" />
+    <Property Name="PDC_Due_Date" Type="datetime" />
+    <Property Name="PDC_Type" Type="char" MaxLength="1" />
+    <Property Name="Is_In_Kaso" Type="char" MaxLength="1" />
+    <Property Name="Is_Cummulative_Flag" Type="bit" />
+    <Property Name="PDC_Status" Type="char" MaxLength="2" />
+    <Property Name="Fisik_Status" Type="char" MaxLength="2" />
+    <Property Name="Status_Date" Type="datetime" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PDC_History">
+    <Key>
+      <PropertyRef Name="PDC_History_Id" />
+    </Key>
+    <Property Name="PDC_History_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PDC_Header_Id" Type="bigint" />
+    <Property Name="PDC_Status" Type="char" MaxLength="2" />
+    <Property Name="Fisik_Status" Type="char" MaxLength="2" />
+    <Property Name="Status_Date" Type="datetime" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PDC_Receipt">
+    <Key>
+      <PropertyRef Name="PDC_Receipt_Id" />
+    </Key>
+    <Property Name="PDC_Receipt_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PDC_Receipt_No" Type="varchar" MaxLength="20" />
+    <Property Name="Received_Date" Type="datetime" />
+    <Property Name="Receive_From" Type="varchar" MaxLength="50" />
+    <Property Name="Agrmnt_Id" Type="bigint" />
+    <Property Name="Num_Of_PDC" Type="int" />
+    <Property Name="Total_PDC_Amount" Type="decimal" Scale="2" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PROD_TRX_D">
+    <Key>
+      <PropertyRef Name="PROD_TRX_D_ID" />
+    </Key>
+    <Property Name="PROD_TRX_D_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PROD_TRX_H_ID" Type="bigint" />
+    <Property Name="PRODUCT_D_ID" Type="bigint" />
+    <Property Name="QTY" Type="bigint" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PROD_TRX_H">
+    <Key>
+      <PropertyRef Name="PROD_TRX_H_ID" />
+    </Key>
+    <Property Name="PROD_TRX_H_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PROD_TRX_NO" Type="varchar" MaxLength="20" />
+    <Property Name="PROD_TRX_DT" Type="datetime" />
+    <Property Name="CUST_ID" Type="bigint" />
+    <Property Name="TOTAL_PRICE" Type="decimal" Precision="17" Scale="2" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PRODUCT">
+    <Key>
+      <PropertyRef Name="PRODUCT_ID" />
+    </Key>
+    <Property Name="PRODUCT_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PRODUCT_CODE" Type="varchar" MaxLength="20" />
+    <Property Name="PRODUCT_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="PRICE" Type="decimal" Precision="17" Scale="2" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+    <Property Name="CONDITION" Type="varchar" MaxLength="10" />
+    <Property Name="RELEASE_DT" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PRODUCT_D">
+    <Key>
+      <PropertyRef Name="PRODUCT_D_ID" />
+    </Key>
+    <Property Name="PRODUCT_D_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PRODUCT_H_ID" Type="bigint" />
+    <Property Name="MODEL_CODE" Type="varchar" MaxLength="20" />
+    <Property Name="MODEL_NAME" Type="varchar" MaxLength="50" />
+    <Property Name="PRICE" Type="decimal" Precision="17" Scale="2" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+    <Property Name="RELEASE_DT" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PRODUCT_H">
+    <Key>
+      <PropertyRef Name="PRODUCT_H_ID" />
+    </Key>
+    <Property Name="PRODUCT_H_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="BRAND_CODE" Type="varchar" MaxLength="20" />
+    <Property Name="BRAND_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Ref_Bank">
+    <Key>
+      <PropertyRef Name="Ref_Bank_Id" />
+    </Key>
+    <Property Name="Ref_Bank_Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Bank_Name" Type="varchar" MaxLength="20" />
+    <Property Name="Is_Active" Type="bit" />
+    <Property Name="Usr_Crt" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Crt" Type="datetime" />
+    <Property Name="Usr_Upd" Type="varchar" MaxLength="20" />
+    <Property Name="Dtm_Upd" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'TRAINING.dbo.REF_MASTER' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="REF_MASTER">
+    <Key>
+      <PropertyRef Name="REF_MASTER_ID" />
+    </Key>
+    <Property Name="REF_MASTER_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="MASTER_CODE" Type="varchar" MaxLength="10" />
+    <Property Name="DESCRIPTION" Type="varchar" MaxLength="100" />
+    <Property Name="MASTER_TYPE" Type="nchar" MaxLength="10" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" />
+  </EntityType>
+  <EntityType Name="REF_OFFICE">
+    <Key>
+      <PropertyRef Name="REF_OFFICE_ID" />
+    </Key>
+    <Property Name="REF_OFFICE_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="OFFICE_CODE" Type="varchar" MaxLength="10" />
+    <Property Name="OFFICE_NAME" Type="varchar" MaxLength="50" />
+    <Property Name="ADDR" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="RT" Type="varchar" Nullable="false" MaxLength="3" />
+    <Property Name="RW" Type="varchar" Nullable="false" MaxLength="3" />
+    <Property Name="ZIPCODE" Type="varchar" Nullable="false" MaxLength="5" />
+    <Property Name="PHN_AREA" Type="varchar" MaxLength="4" />
+    <Property Name="PHN" Type="varchar" MaxLength="20" />
+    <Property Name="OFFICE_BALANCE_AMT" Type="decimal" Precision="17" Scale="2" />
+    <Property Name="USR_UPD" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" Nullable="false" />
+    <Property Name="USR_CRT" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" Nullable="false" />
+    <Property Name="IS_ACTIVE" Type="char" Nullable="false" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="SUPPL">
+    <Key>
+      <PropertyRef Name="SUPPL_ID" />
+    </Key>
+    <Property Name="SUPPL_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SUPPL_NO" Type="varchar" MaxLength="20" />
+    <Property Name="SUPPL_NAME" Type="varchar" MaxLength="100" />
+    <Property Name="SUPPL_ADDRESS" Type="varchar" MaxLength="100" />
+    <Property Name="SUPPL_RT" Type="varchar" MaxLength="3" />
+    <Property Name="SUPPL_RW" Type="varchar" MaxLength="3" />
+    <Property Name="SUPPL_KELURAHAN" Type="varchar" MaxLength="20" />
+    <Property Name="SUPPL_KECAMATAN" Type="varchar" MaxLength="20" />
+    <Property Name="SUPPL_CITY" Type="varchar" MaxLength="20" />
+    <Property Name="SUPPL_ZIPCODE" Type="varchar" MaxLength="10" />
+    <Property Name="USR_CRT" Type="varchar" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" />
+    <Property Name="USR_UPD" Type="varchar" MaxLength="50" />
+    <Property Name="DTM_UPD" Type="datetime" />
+    <Property Name="PRODUCE" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK_Agrmnt_Branch">
+    <End Role="Branch" Type="TrainingModel.Store.Branch" Multiplicity="0..1" />
+    <End Role="Agrmnt" Type="TrainingModel.Store.Agrmnt" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Branch">
+        <PropertyRef Name="Branch_Id" />
+      </Principal>
+      <Dependent Role="Agrmnt">
+        <PropertyRef Name="Branch_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Agrmnt_Curr">
+    <End Role="Curr" Type="TrainingModel.Store.Curr" Multiplicity="0..1" />
+    <End Role="Agrmnt" Type="TrainingModel.Store.Agrmnt" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Curr">
+        <PropertyRef Name="Curr_Id" />
+      </Principal>
+      <Dependent Role="Agrmnt">
+        <PropertyRef Name="Curr_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AGRMNT_CUSTOMER">
+    <End Role="Customer" Type="TrainingModel.Store.Customer" Multiplicity="0..1" />
+    <End Role="Agrmnt" Type="TrainingModel.Store.Agrmnt" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Cust_Id" />
+      </Principal>
+      <Dependent Role="Agrmnt">
+        <PropertyRef Name="Cust_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EMPLOYEE_OFFICE_HEAD">
+    <End Role="OFFICE_HEAD" Type="TrainingModel.Store.OFFICE_HEAD" Multiplicity="1" />
+    <End Role="EMPLOYEE" Type="TrainingModel.Store.EMPLOYEE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OFFICE_HEAD">
+        <PropertyRef Name="OFFICE_HEAD_ID" />
+      </Principal>
+      <Dependent Role="EMPLOYEE">
+        <PropertyRef Name="OFFICE_HEAD_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OFFICE_HEAD_REF_OFFICE">
+    <End Role="REF_OFFICE" Type="TrainingModel.Store.REF_OFFICE" Multiplicity="0..1" />
+    <End Role="OFFICE_HEAD" Type="TrainingModel.Store.OFFICE_HEAD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REF_OFFICE">
+        <PropertyRef Name="REF_OFFICE_ID" />
+      </Principal>
+      <Dependent Role="OFFICE_HEAD">
+        <PropertyRef Name="REF_OFFICE_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PDC_Detail_PDC_Header">
+    <End Role="PDC_Header" Type="TrainingModel.Store.PDC_Header" Multiplicity="0..1" />
+    <End Role="PDC_Detail" Type="TrainingModel.Store.PDC_Detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PDC_Header">
+        <PropertyRef Name="PDC_Header_Id" />
+      </Principal>
+      <Dependent Role="PDC_Detail">
+        <PropertyRef Name="PDC_Header_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PDC_Header_Branch_Employee">
+    <End Role="Branch_Employee" Type="TrainingModel.Store.Branch_Employee" Multiplicity="0..1" />
+    <End Role="PDC_Header" Type="TrainingModel.Store.PDC_Header" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Branch_Employee">
+        <PropertyRef Name="Employee_Id" />
+      </Principal>
+      <Dependent Role="PDC_Header">
+        <PropertyRef Name="Employee_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PDC_Header_PDC_Receipt">
+    <End Role="PDC_Receipt" Type="TrainingModel.Store.PDC_Receipt" Multiplicity="0..1" />
+    <End Role="PDC_Header" Type="TrainingModel.Store.PDC_Header" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PDC_Receipt">
+        <PropertyRef Name="PDC_Receipt_Id" />
+      </Principal>
+      <Dependent Role="PDC_Header">
+        <PropertyRef Name="PDC_Receipt_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PDC_Header_Ref_Bank">
+    <End Role="Ref_Bank" Type="TrainingModel.Store.Ref_Bank" Multiplicity="0..1" />
+    <End Role="PDC_Header" Type="TrainingModel.Store.PDC_Header" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ref_Bank">
+        <PropertyRef Name="Ref_Bank_Id" />
+      </Principal>
+      <Dependent Role="PDC_Header">
+        <PropertyRef Name="Ref_Bank_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PDC_History_PDC_Header">
+    <End Role="PDC_Header" Type="TrainingModel.Store.PDC_Header" Multiplicity="0..1" />
+    <End Role="PDC_History" Type="TrainingModel.Store.PDC_History" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PDC_Header">
+        <PropertyRef Name="PDC_Header_Id" />
+      </Principal>
+      <Dependent Role="PDC_History">
+        <PropertyRef Name="PDC_Header_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PDC_Receipt_Agrmnt">
+    <End Role="Agrmnt" Type="TrainingModel.Store.Agrmnt" Multiplicity="0..1" />
+    <End Role="PDC_Receipt" Type="TrainingModel.Store.PDC_Receipt" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Agrmnt">
+        <PropertyRef Name="Agrmnt_Id" />
+      </Principal>
+      <Dependent Role="PDC_Receipt">
+        <PropertyRef Name="Agrmnt_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROD_TRX_H_CUST">
+    <End Role="CUST" Type="TrainingModel.Store.CUST" Multiplicity="0..1" />
+    <End Role="PROD_TRX_H" Type="TrainingModel.Store.PROD_TRX_H" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CUST">
+        <PropertyRef Name="CUST_ID" />
+      </Principal>
+      <Dependent Role="PROD_TRX_H">
+        <PropertyRef Name="CUST_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROD_TRX_H_PROD_TRX_D">
+    <End Role="PROD_TRX_H" Type="TrainingModel.Store.PROD_TRX_H" Multiplicity="0..1" />
+    <End Role="PROD_TRX_D" Type="TrainingModel.Store.PROD_TRX_D" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PROD_TRX_H">
+        <PropertyRef Name="PROD_TRX_H_ID" />
+      </Principal>
+      <Dependent Role="PROD_TRX_D">
+        <PropertyRef Name="PROD_TRX_H_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PRODUCT_D_PRODUCT_H">
+    <End Role="PRODUCT_H" Type="TrainingModel.Store.PRODUCT_H" Multiplicity="0..1" />
+    <End Role="PRODUCT_D" Type="TrainingModel.Store.PRODUCT_D" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRODUCT_H">
+        <PropertyRef Name="PRODUCT_H_ID" />
+      </Principal>
+      <Dependent Role="PRODUCT_D">
+        <PropertyRef Name="PRODUCT_H_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PRODUCT_TRX_D_PRODUCT_D">
+    <End Role="PRODUCT_D" Type="TrainingModel.Store.PRODUCT_D" Multiplicity="0..1" />
+    <End Role="PROD_TRX_D" Type="TrainingModel.Store.PROD_TRX_D" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRODUCT_D">
+        <PropertyRef Name="PRODUCT_D_ID" />
+      </Principal>
+      <Dependent Role="PROD_TRX_D">
+        <PropertyRef Name="PRODUCT_D_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

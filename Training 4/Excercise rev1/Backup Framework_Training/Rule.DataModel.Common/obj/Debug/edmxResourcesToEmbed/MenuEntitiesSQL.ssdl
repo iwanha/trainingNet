@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MenuModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="MenuModelStoreContainer">
+    <EntitySet Name="REF_FOLDER" EntityType="MenuModel.Store.REF_FOLDER" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="REF_FORM" EntityType="MenuModel.Store.REF_FORM" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_REF_FOLDER_REF_FOLDER" Association="MenuModel.Store.FK_REF_FOLDER_REF_FOLDER">
+      <End Role="REF_FOLDER" EntitySet="REF_FOLDER" />
+      <End Role="REF_FOLDER1" EntitySet="REF_FOLDER" />
+    </AssociationSet>
+    <AssociationSet Name="FK_REF_FORM_REF_FOLDER" Association="MenuModel.Store.FK_REF_FORM_REF_FOLDER">
+      <End Role="REF_FOLDER" EntitySet="REF_FOLDER" />
+      <End Role="REF_FORM" EntitySet="REF_FORM" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="REF_FOLDER">
+    <Key>
+      <PropertyRef Name="REF_FOLDER_ID" />
+    </Key>
+    <Property Name="REF_FOLDER_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FOLDER_NAME" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="PARENT_ID" Type="bigint" />
+    <Property Name="HIERARCHY_NO" Type="int" Nullable="false" />
+    <Property Name="ORDER_NO" Type="int" Nullable="false" />
+    <Property Name="IS_HIDDEN" Type="char" Nullable="false" MaxLength="1" />
+    <Property Name="USR_UPD" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" Nullable="false" />
+    <Property Name="USR_CRT" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="REF_FORM">
+    <Key>
+      <PropertyRef Name="REF_FORM_ID" />
+    </Key>
+    <Property Name="REF_FORM_ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FORM_NAME" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="FORM_URL" Type="varchar" Nullable="false" MaxLength="200" />
+    <Property Name="REF_FOLDER_ID" Type="bigint" Nullable="false" />
+    <Property Name="ORDER_NO" Type="int" Nullable="false" />
+    <Property Name="IS_HIDDEN" Type="char" Nullable="false" MaxLength="1" />
+    <Property Name="USR_UPD" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_UPD" Type="datetime" Nullable="false" />
+    <Property Name="USR_CRT" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DTM_CRT" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_REF_FOLDER_REF_FOLDER">
+    <End Role="REF_FOLDER" Type="MenuModel.Store.REF_FOLDER" Multiplicity="0..1" />
+    <End Role="REF_FOLDER1" Type="MenuModel.Store.REF_FOLDER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REF_FOLDER">
+        <PropertyRef Name="REF_FOLDER_ID" />
+      </Principal>
+      <Dependent Role="REF_FOLDER1">
+        <PropertyRef Name="PARENT_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_REF_FORM_REF_FOLDER">
+    <End Role="REF_FOLDER" Type="MenuModel.Store.REF_FOLDER" Multiplicity="1" />
+    <End Role="REF_FORM" Type="MenuModel.Store.REF_FORM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REF_FOLDER">
+        <PropertyRef Name="REF_FOLDER_ID" />
+      </Principal>
+      <Dependent Role="REF_FORM">
+        <PropertyRef Name="REF_FOLDER_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
